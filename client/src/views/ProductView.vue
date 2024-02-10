@@ -1,11 +1,12 @@
 <template>
     <!-- CONTENT START -->
     <div class="ms-2">
-        <h1>{{ findProductName($route.params.id) }}</h1>
+        <h1>{{ product.name }}</h1>
+        <h3></h3>
         <div class="container">
             <div class="row">
                 <div class="col-3 bg-dark position-relative mx-0">
-                    <p class="position-absolute top-50 start-50 translate-middle text-light">{{ findProductName($route.params.id) }} image</p>
+                    <p class="position-absolute top-50 start-50 translate-middle text-light"> {{ product.name }} image</p>
                 </div>
                 <div class="col-9">
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio mollitia libero animi! A hic dolorem,
@@ -34,21 +35,21 @@
 </template>
   
 <script setup>
-import { useProductDataStore } from '@/stores/productData';
-import { computed, onMounted } from 'vue';
+import { computed, onMounted, ref } from 'vue';
+import { useRoute } from 'vue-router';
 
-const productData = useProductDataStore();
+const route = useRoute();
+const id = route.params.id;
+let product = ref([]);
 
-const findProductName = (id) => {
-    let productName;
-    for (let [key, value] of Object.entries(productData.products)) {
-        console.log(value._id);
-        if (value._id === id) {
-            productName = value.name;
-        }
+onMounted(
+    async () => {
+        const response = await fetch(`http://localhost:3000/products/${id}`)
+        product.value = await response.json()
+        console.log(product.value)
+        console.log(id)
     }
-    return productName;
-}
+)
 
 </script>
   
