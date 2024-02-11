@@ -6,14 +6,7 @@ import Sidebar from './components/Sidebar.vue';
 <template>
   <div class="container vw-100">
     <Navbar />
-    <div class="row">
-      <div v-if="$route.name == 'shop'" class="col-2">
-        <Sidebar />
-      </div>
-      <div class="col-10">
-        <RouterView />
-      </div>
-    </div>
+    <RouterView />
   </div>
 </template>
 
