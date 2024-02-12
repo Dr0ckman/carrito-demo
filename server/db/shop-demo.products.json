@@ -1,0 +1,9000 @@
+[{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064985"
+  },
+  "category": "Electronics",
+  "name": "Computer Equipment",
+  "price": "41.99",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064986"
+  },
+  "category": "Home",
+  "name": "Kitchen Equipment",
+  "price": "111.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064987"
+  },
+  "category": "Entertainment",
+  "name": "Party Mechanism",
+  "price": "187.95",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064988"
+  },
+  "category": "Activity",
+  "name": "Outdoors Implement",
+  "price": "179",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064989"
+  },
+  "category": "Health",
+  "name": "Medicine Paraphernalia",
+  "price": "189",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406498a"
+  },
+  "category": "Pets",
+  "name": "Cat Attachment",
+  "price": "81.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406498b"
+  },
+  "category": "Home",
+  "name": "Cooking Gizmo",
+  "price": "88",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406498c"
+  },
+  "category": "Activity",
+  "name": "Beach Machine",
+  "price": "22.95",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406498d"
+  },
+  "category": "Activity",
+  "name": "Sports Gear",
+  "price": "64.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406498e"
+  },
+  "category": "Home",
+  "name": "Storage Thingamajig",
+  "price": "101.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406498f"
+  },
+  "category": "Clothing",
+  "name": "Womens Machine",
+  "price": "33",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064990"
+  },
+  "category": "Clothing",
+  "name": "Mens Contraption",
+  "price": "109.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064991"
+  },
+  "category": "Clothing",
+  "name": "Baby Apparatus",
+  "price": "99.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064992"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Implement",
+  "price": "40.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064993"
+  },
+  "category": "Home",
+  "name": "Bedding Apparatus",
+  "price": "124.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064994"
+  },
+  "category": "Automotive",
+  "name": "Car Instrument",
+  "price": "22",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064995"
+  },
+  "category": "Automotive",
+  "name": "Tire Contraption",
+  "price": "39.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064996"
+  },
+  "category": "Home",
+  "name": "Kitchen Rig",
+  "price": "158.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064997"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Component",
+  "price": "82",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064998"
+  },
+  "category": "Automotive",
+  "name": "Tire Widget",
+  "price": "160.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064999"
+  },
+  "category": "Home",
+  "name": "Dining Kit",
+  "price": "72.95",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406499a"
+  },
+  "category": "Health",
+  "name": "First Aid Equipment",
+  "price": "196.99",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406499b"
+  },
+  "category": "Activity",
+  "name": "Outdoors Gadget",
+  "price": "20.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406499c"
+  },
+  "category": "Clothing",
+  "name": "Kids Widget",
+  "price": "145.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406499d"
+  },
+  "category": "Health",
+  "name": "Nutrition Equipment",
+  "price": "108.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406499e"
+  },
+  "category": "Pets",
+  "name": "Dog Contraption",
+  "price": "174.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca4406499f"
+  },
+  "category": "Clothing",
+  "name": "Kids Machine",
+  "price": "185",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a0"
+  },
+  "category": "Beauty",
+  "name": "Personal Paraphernalia",
+  "price": "174",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a1"
+  },
+  "category": "Pets",
+  "name": "Dog Implement",
+  "price": "36",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a2"
+  },
+  "category": "Entertainment",
+  "name": "Game Thingamajig",
+  "price": "102.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a3"
+  },
+  "category": "Entertainment",
+  "name": "Movie Item",
+  "price": "85.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a4"
+  },
+  "category": "Activity",
+  "name": "Biking Implement",
+  "price": "32.95",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a5"
+  },
+  "category": "Entertainment",
+  "name": "Music Device",
+  "price": "192.95",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a6"
+  },
+  "category": "Beauty",
+  "name": "Personal Machine",
+  "price": "196.99",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a7"
+  },
+  "category": "Health",
+  "name": "Medicine Kit",
+  "price": "171.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a8"
+  },
+  "category": "Activity",
+  "name": "Swimming Implement",
+  "price": "187.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649a9"
+  },
+  "category": "Pets",
+  "name": "Aquarium Accessory",
+  "price": "156.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649aa"
+  },
+  "category": "Pets",
+  "name": "Dog Component",
+  "price": "21.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ab"
+  },
+  "category": "Activity",
+  "name": "Fitness Gizmo",
+  "price": "75.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ac"
+  },
+  "category": "Automotive",
+  "name": "Truck Supplies",
+  "price": "137.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ad"
+  },
+  "category": "Home",
+  "name": "Furniture Instrument",
+  "price": "168.99",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ae"
+  },
+  "category": "Home",
+  "name": "Storage Kit",
+  "price": "32.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649af"
+  },
+  "category": "Activity",
+  "name": "Swimming Contraption",
+  "price": "160.95",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b0"
+  },
+  "category": "Home",
+  "name": "Furniture Apparatus",
+  "price": "22",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b1"
+  },
+  "category": "Pets",
+  "name": "Dog Implement",
+  "price": "10.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b2"
+  },
+  "category": "Health",
+  "name": "Nutrition Attachment",
+  "price": "108.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b3"
+  },
+  "category": "Pets",
+  "name": "Aquarium Supplies",
+  "price": "16.95",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b4"
+  },
+  "category": "Entertainment",
+  "name": "Movie Attachment",
+  "price": "87.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b5"
+  },
+  "category": "Pets",
+  "name": "Dog Gear",
+  "price": "83.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b6"
+  },
+  "category": "Activity",
+  "name": "Swimming Equipment",
+  "price": "118.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b7"
+  },
+  "category": "Entertainment",
+  "name": "Book Instrument",
+  "price": "86.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b8"
+  },
+  "category": "Activity",
+  "name": "Outdoors Paraphernalia",
+  "price": "71.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649b9"
+  },
+  "category": "Entertainment",
+  "name": "Toy Tool",
+  "price": "75.95",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ba"
+  },
+  "category": "Activity",
+  "name": "Fitness Machine",
+  "price": "54.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649bb"
+  },
+  "category": "Health",
+  "name": "Medicine Equipment",
+  "price": "154",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649bc"
+  },
+  "category": "Automotive",
+  "name": "Tire Apparatus",
+  "price": "148.95",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649bd"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Mechanism",
+  "price": "45.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649be"
+  },
+  "category": "Entertainment",
+  "name": "Book Rig",
+  "price": "182",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649bf"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Device",
+  "price": "117.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c0"
+  },
+  "category": "Home",
+  "name": "Furniture Gear",
+  "price": "78",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c1"
+  },
+  "category": "Clothing",
+  "name": "Womens Paraphernalia",
+  "price": "123",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c2"
+  },
+  "category": "Home",
+  "name": "Kitchen Paraphernalia",
+  "price": "94",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c3"
+  },
+  "category": "Automotive",
+  "name": "Car Gizmo",
+  "price": "36.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c4"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Device",
+  "price": "137.95",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c5"
+  },
+  "category": "Home",
+  "name": "Bedding Whatchamacallit",
+  "price": "117",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c6"
+  },
+  "category": "Automotive",
+  "name": "Engine Kit",
+  "price": "180.99",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c7"
+  },
+  "category": "Beauty",
+  "name": "Makeup Supplies",
+  "price": "101.95",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c8"
+  },
+  "category": "Beauty",
+  "name": "Makeup Accessory",
+  "price": "11.95",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649c9"
+  },
+  "category": "Clothing",
+  "name": "Womens Instrument",
+  "price": "46.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ca"
+  },
+  "category": "Pets",
+  "name": "Dog Mechanism",
+  "price": "135.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649cb"
+  },
+  "category": "Automotive",
+  "name": "Engine Instrument",
+  "price": "191.99",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649cc"
+  },
+  "category": "Activity",
+  "name": "Fitness Kit",
+  "price": "151",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649cd"
+  },
+  "category": "Beauty",
+  "name": "Bath Accessory",
+  "price": "35",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ce"
+  },
+  "category": "Home",
+  "name": "Furniture Rig",
+  "price": "85.99",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649cf"
+  },
+  "category": "Electronics",
+  "name": "Computer Gizmo",
+  "price": "40",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d0"
+  },
+  "category": "Home",
+  "name": "Home Improvement Paraphernalia",
+  "price": "198",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d1"
+  },
+  "category": "Home",
+  "name": "Dining Gizmo",
+  "price": "72.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d2"
+  },
+  "category": "Entertainment",
+  "name": "Party Mechanism",
+  "price": "159",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d3"
+  },
+  "category": "Activity",
+  "name": "Fitness Component",
+  "price": "15.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d4"
+  },
+  "category": "Activity",
+  "name": "Swimming Kit",
+  "price": "79.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d5"
+  },
+  "category": "Home",
+  "name": "Bedding Gear",
+  "price": "154",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d6"
+  },
+  "category": "Activity",
+  "name": "Outdoors Apparatus",
+  "price": "22.95",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d7"
+  },
+  "category": "Electronics",
+  "name": "Technology Doodad",
+  "price": "108.99",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d8"
+  },
+  "category": "Entertainment",
+  "name": "Movie Supplies",
+  "price": "172",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649d9"
+  },
+  "category": "Automotive",
+  "name": "Engine Widget",
+  "price": "145.99",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649da"
+  },
+  "category": "Entertainment",
+  "name": "Music Thingamajig",
+  "price": "16",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649db"
+  },
+  "category": "Activity",
+  "name": "Swimming Gear",
+  "price": "105.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649dc"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Instrument",
+  "price": "148.95",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649dd"
+  },
+  "category": "Automotive",
+  "name": "Truck Whatchamacallit",
+  "price": "11.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649de"
+  },
+  "category": "Entertainment",
+  "name": "Book Gizmo",
+  "price": "129",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649df"
+  },
+  "category": "Clothing",
+  "name": "Mens Gear",
+  "price": "129",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e0"
+  },
+  "category": "Home",
+  "name": "Home Improvement Gadget",
+  "price": "120.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e1"
+  },
+  "category": "Home",
+  "name": "Kitchen Equipment",
+  "price": "194.99",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e2"
+  },
+  "category": "Entertainment",
+  "name": "Music Device",
+  "price": "24",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e3"
+  },
+  "category": "Electronics",
+  "name": "Phone Thingamajig",
+  "price": "173.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e4"
+  },
+  "category": "Home",
+  "name": "Furniture Gear",
+  "price": "164",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e5"
+  },
+  "category": "Activity",
+  "name": "Sports Contraption",
+  "price": "125.99",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e6"
+  },
+  "category": "Electronics",
+  "name": "Technology Apparatus",
+  "price": "93.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e7"
+  },
+  "category": "Home",
+  "name": "Gardening Apparatus",
+  "price": "124",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e8"
+  },
+  "category": "Home",
+  "name": "Kitchen Attachment",
+  "price": "43.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649e9"
+  },
+  "category": "Entertainment",
+  "name": "Game Component",
+  "price": "170.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ea"
+  },
+  "category": "Entertainment",
+  "name": "Book Gear",
+  "price": "180.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649eb"
+  },
+  "category": "Entertainment",
+  "name": "Toy Equipment",
+  "price": "41",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ec"
+  },
+  "category": "Electronics",
+  "name": "Phone Component",
+  "price": "129",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ed"
+  },
+  "category": "Clothing",
+  "name": "Womens Gizmo",
+  "price": "88",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ee"
+  },
+  "category": "Electronics",
+  "name": "Technology Gear",
+  "price": "187.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ef"
+  },
+  "category": "Activity",
+  "name": "Sports Paraphernalia",
+  "price": "122",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f0"
+  },
+  "category": "Electronics",
+  "name": "Phone Kit",
+  "price": "87",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f1"
+  },
+  "category": "Entertainment",
+  "name": "Music Equipment",
+  "price": "16",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f2"
+  },
+  "category": "Automotive",
+  "name": "Tire Mechanism",
+  "price": "53",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f3"
+  },
+  "category": "Entertainment",
+  "name": "Party Gadget",
+  "price": "111.95",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f4"
+  },
+  "category": "Pets",
+  "name": "Aquarium Gear",
+  "price": "16",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f5"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Whatchamacallit",
+  "price": "29",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f6"
+  },
+  "category": "Home",
+  "name": "Home Improvement Paraphernalia",
+  "price": "27.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f7"
+  },
+  "category": "Health",
+  "name": "Vitamin Supplies",
+  "price": "131",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f8"
+  },
+  "category": "Beauty",
+  "name": "Makeup Rig",
+  "price": "16",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649f9"
+  },
+  "category": "Electronics",
+  "name": "Phone Contraption",
+  "price": "39.95",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649fa"
+  },
+  "category": "Home",
+  "name": "Gardening Supplies",
+  "price": "36.95",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649fb"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Device",
+  "price": "21.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649fc"
+  },
+  "category": "Home",
+  "name": "Bedding Tool",
+  "price": "10.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649fd"
+  },
+  "category": "Home",
+  "name": "Furniture Widget",
+  "price": "158",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649fe"
+  },
+  "category": "Entertainment",
+  "name": "Party Gear",
+  "price": "54.95",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca440649ff"
+  },
+  "category": "Clothing",
+  "name": "Mens Tool",
+  "price": "103",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a00"
+  },
+  "category": "Automotive",
+  "name": "Truck Whatchamacallit",
+  "price": "75.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a01"
+  },
+  "category": "Activity",
+  "name": "Camping Equipment",
+  "price": "40.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a02"
+  },
+  "category": "Health",
+  "name": "Medicine Paraphernalia",
+  "price": "11.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a03"
+  },
+  "category": "Home",
+  "name": "Furniture Accessory",
+  "price": "155.95",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a04"
+  },
+  "category": "Entertainment",
+  "name": "Movie Item",
+  "price": "186.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a05"
+  },
+  "category": "Automotive",
+  "name": "Engine Instrument",
+  "price": "192.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a06"
+  },
+  "category": "Pets",
+  "name": "Cat Gadget",
+  "price": "77.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a07"
+  },
+  "category": "Home",
+  "name": "Cleaning Gear",
+  "price": "16.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a08"
+  },
+  "category": "Pets",
+  "name": "Aquarium Gadget",
+  "price": "123.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a09"
+  },
+  "category": "Entertainment",
+  "name": "Game Instrument",
+  "price": "73.95",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a0a"
+  },
+  "category": "Entertainment",
+  "name": "Book Doodad",
+  "price": "21.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a0b"
+  },
+  "category": "Entertainment",
+  "name": "Movie Thingamajig",
+  "price": "77.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a0c"
+  },
+  "category": "Entertainment",
+  "name": "Party Gadget",
+  "price": "177",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a0d"
+  },
+  "category": "Activity",
+  "name": "Outdoors Paraphernalia",
+  "price": "60.95",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a0e"
+  },
+  "category": "Home",
+  "name": "Bedding Implement",
+  "price": "173.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a0f"
+  },
+  "category": "Home",
+  "name": "Storage Instrument",
+  "price": "22",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a10"
+  },
+  "category": "Entertainment",
+  "name": "Movie Equipment",
+  "price": "95.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a11"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Attachment",
+  "price": "65.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a12"
+  },
+  "category": "Home",
+  "name": "Cleaning Contraption",
+  "price": "179",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a13"
+  },
+  "category": "Activity",
+  "name": "Biking Component",
+  "price": "41.95",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a14"
+  },
+  "category": "Electronics",
+  "name": "Computer Doodad",
+  "price": "26.99",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a15"
+  },
+  "category": "Clothing",
+  "name": "Kids Doodad",
+  "price": "105.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a16"
+  },
+  "category": "Activity",
+  "name": "Biking Equipment",
+  "price": "178.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a17"
+  },
+  "category": "Pets",
+  "name": "Cat Gizmo",
+  "price": "137.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a18"
+  },
+  "category": "Automotive",
+  "name": "Truck Device",
+  "price": "121.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a19"
+  },
+  "category": "Home",
+  "name": "Storage Gizmo",
+  "price": "96",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a1a"
+  },
+  "category": "Clothing",
+  "name": "Baby Kit",
+  "price": "84.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a1b"
+  },
+  "category": "Activity",
+  "name": "Camping Item",
+  "price": "35",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a1c"
+  },
+  "category": "Home",
+  "name": "Bedding Whatchamacallit",
+  "price": "188",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a1d"
+  },
+  "category": "Health",
+  "name": "Nutrition Whatchamacallit",
+  "price": "32.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a1e"
+  },
+  "category": "Beauty",
+  "name": "Personal Implement",
+  "price": "86",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a1f"
+  },
+  "category": "Activity",
+  "name": "Beach Kit",
+  "price": "177.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a20"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Mechanism",
+  "price": "126",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a21"
+  },
+  "category": "Activity",
+  "name": "Sports Tool",
+  "price": "26",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a22"
+  },
+  "category": "Entertainment",
+  "name": "Party Apparatus",
+  "price": "150.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a23"
+  },
+  "category": "Pets",
+  "name": "Cat Contraption",
+  "price": "198.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a24"
+  },
+  "category": "Automotive",
+  "name": "Tire Gizmo",
+  "price": "38",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a25"
+  },
+  "category": "Electronics",
+  "name": "Technology Thingamajig",
+  "price": "147.99",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a26"
+  },
+  "category": "Activity",
+  "name": "Sports Widget",
+  "price": "124.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a27"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Gadget",
+  "price": "99.99",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a28"
+  },
+  "category": "Pets",
+  "name": "Cat Device",
+  "price": "197.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a29"
+  },
+  "category": "Health",
+  "name": "Medicine Mechanism",
+  "price": "103.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a2a"
+  },
+  "category": "Electronics",
+  "name": "Camera Paraphernalia",
+  "price": "151.99",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a2b"
+  },
+  "category": "Health",
+  "name": "Medicine Contraption",
+  "price": "69",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a2c"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Apparatus",
+  "price": "137.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a2d"
+  },
+  "category": "Activity",
+  "name": "Sports Doodad",
+  "price": "188",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a2e"
+  },
+  "category": "Home",
+  "name": "Storage Paraphernalia",
+  "price": "156.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a2f"
+  },
+  "category": "Electronics",
+  "name": "Computer Doodad",
+  "price": "150",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a30"
+  },
+  "category": "Automotive",
+  "name": "Car Supplies",
+  "price": "173.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a31"
+  },
+  "category": "Beauty",
+  "name": "Bath Thingamajig",
+  "price": "48.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a32"
+  },
+  "category": "Pets",
+  "name": "Aquarium Whatchamacallit",
+  "price": "68",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a33"
+  },
+  "category": "Home",
+  "name": "Storage Gadget",
+  "price": "56.95",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a34"
+  },
+  "category": "Entertainment",
+  "name": "Game Device",
+  "price": "81.95",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a35"
+  },
+  "category": "Home",
+  "name": "Bedding Instrument",
+  "price": "79.99",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a36"
+  },
+  "category": "Beauty",
+  "name": "Personal Contraption",
+  "price": "72",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a37"
+  },
+  "category": "Home",
+  "name": "Cooking Accessory",
+  "price": "26",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a38"
+  },
+  "category": "Beauty",
+  "name": "Bath Machine",
+  "price": "103.99",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a39"
+  },
+  "category": "Entertainment",
+  "name": "Movie Whatchamacallit",
+  "price": "176.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a3a"
+  },
+  "category": "Clothing",
+  "name": "Kids Apparatus",
+  "price": "195.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a3b"
+  },
+  "category": "Pets",
+  "name": "Dog Paraphernalia",
+  "price": "159.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a3c"
+  },
+  "category": "Entertainment",
+  "name": "Party Implement",
+  "price": "95.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a3d"
+  },
+  "category": "Electronics",
+  "name": "Technology Implement",
+  "price": "127.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a3e"
+  },
+  "category": "Pets",
+  "name": "Cat Gizmo",
+  "price": "37.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a3f"
+  },
+  "category": "Home",
+  "name": "Cleaning Implement",
+  "price": "161.95",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a40"
+  },
+  "category": "Home",
+  "name": "Kitchen Kit",
+  "price": "79",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a41"
+  },
+  "category": "Activity",
+  "name": "Outdoors Kit",
+  "price": "139.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a42"
+  },
+  "category": "Automotive",
+  "name": "Car Whatchamacallit",
+  "price": "52.95",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a43"
+  },
+  "category": "Clothing",
+  "name": "Womens Gizmo",
+  "price": "182.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a44"
+  },
+  "category": "Activity",
+  "name": "Sports Gizmo",
+  "price": "64.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a45"
+  },
+  "category": "Pets",
+  "name": "Cat Device",
+  "price": "108",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a46"
+  },
+  "category": "Home",
+  "name": "Dining Item",
+  "price": "85.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a47"
+  },
+  "category": "Pets",
+  "name": "Aquarium Implement",
+  "price": "129.95",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a48"
+  },
+  "category": "Electronics",
+  "name": "Computer Component",
+  "price": "182.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a49"
+  },
+  "category": "Electronics",
+  "name": "Computer Instrument",
+  "price": "120.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a4a"
+  },
+  "category": "Health",
+  "name": "Medicine Device",
+  "price": "99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a4b"
+  },
+  "category": "Home",
+  "name": "Gardening Doodad",
+  "price": "189.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a4c"
+  },
+  "category": "Beauty",
+  "name": "Bath Contraption",
+  "price": "109",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a4d"
+  },
+  "category": "Home",
+  "name": "Dining Device",
+  "price": "46.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a4e"
+  },
+  "category": "Pets",
+  "name": "Aquarium Instrument",
+  "price": "164.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a4f"
+  },
+  "category": "Beauty",
+  "name": "Personal Attachment",
+  "price": "116.99",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a50"
+  },
+  "category": "Entertainment",
+  "name": "Game Machine",
+  "price": "154.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a51"
+  },
+  "category": "Automotive",
+  "name": "Engine Equipment",
+  "price": "92.99",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a52"
+  },
+  "category": "Home",
+  "name": "Cooking Equipment",
+  "price": "96",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a53"
+  },
+  "category": "Electronics",
+  "name": "Phone Accessory",
+  "price": "100.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a54"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Mechanism",
+  "price": "71.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a55"
+  },
+  "category": "Home",
+  "name": "Bedding Mechanism",
+  "price": "156.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a56"
+  },
+  "category": "Clothing",
+  "name": "Kids Widget",
+  "price": "127.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a57"
+  },
+  "category": "Clothing",
+  "name": "Mens Instrument",
+  "price": "199.99",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a58"
+  },
+  "category": "Home",
+  "name": "Bedding Gizmo",
+  "price": "59.99",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a59"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Gizmo",
+  "price": "20.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a5a"
+  },
+  "category": "Entertainment",
+  "name": "Book Thingamajig",
+  "price": "149.95",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a5b"
+  },
+  "category": "Electronics",
+  "name": "Camera Apparatus",
+  "price": "155.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a5c"
+  },
+  "category": "Entertainment",
+  "name": "Movie Supplies",
+  "price": "64.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a5d"
+  },
+  "category": "Automotive",
+  "name": "Tire Equipment",
+  "price": "52",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a5e"
+  },
+  "category": "Health",
+  "name": "First Aid Mechanism",
+  "price": "91.99",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a5f"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Apparatus",
+  "price": "67.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a60"
+  },
+  "category": "Clothing",
+  "name": "Kids Doodad",
+  "price": "71.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a61"
+  },
+  "category": "Clothing",
+  "name": "Baby Component",
+  "price": "44.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a62"
+  },
+  "category": "Entertainment",
+  "name": "Toy Machine",
+  "price": "20",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a63"
+  },
+  "category": "Home",
+  "name": "Cleaning Apparatus",
+  "price": "69.95",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a64"
+  },
+  "category": "Home",
+  "name": "Dining Supplies",
+  "price": "86",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a65"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Gadget",
+  "price": "105.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a66"
+  },
+  "category": "Automotive",
+  "name": "Car Thingamajig",
+  "price": "169.95",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a67"
+  },
+  "category": "Health",
+  "name": "Vitamin Gizmo",
+  "price": "24.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a68"
+  },
+  "category": "Entertainment",
+  "name": "Party Paraphernalia",
+  "price": "45.95",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a69"
+  },
+  "category": "Home",
+  "name": "Cooking Accessory",
+  "price": "118",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a6a"
+  },
+  "category": "Beauty",
+  "name": "Makeup Item",
+  "price": "174.95",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a6b"
+  },
+  "category": "Home",
+  "name": "Dining Apparatus",
+  "price": "181.95",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a6c"
+  },
+  "category": "Home",
+  "name": "Kitchen Instrument",
+  "price": "41.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a6d"
+  },
+  "category": "Home",
+  "name": "Home Improvement Gizmo",
+  "price": "156",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a6e"
+  },
+  "category": "Automotive",
+  "name": "Car Kit",
+  "price": "183.95",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a6f"
+  },
+  "category": "Home",
+  "name": "Cooking Machine",
+  "price": "121.95",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a70"
+  },
+  "category": "Electronics",
+  "name": "Computer Apparatus",
+  "price": "38",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a71"
+  },
+  "category": "Clothing",
+  "name": "Mens Device",
+  "price": "118",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a72"
+  },
+  "category": "Beauty",
+  "name": "Personal Gadget",
+  "price": "63.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a73"
+  },
+  "category": "Pets",
+  "name": "Dog Gizmo",
+  "price": "19.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a74"
+  },
+  "category": "Health",
+  "name": "First Aid Widget",
+  "price": "174",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a75"
+  },
+  "category": "Automotive",
+  "name": "Car Component",
+  "price": "171.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a76"
+  },
+  "category": "Clothing",
+  "name": "Baby Accessory",
+  "price": "124.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a77"
+  },
+  "category": "Activity",
+  "name": "Outdoors Gizmo",
+  "price": "114.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a78"
+  },
+  "category": "Activity",
+  "name": "Camping Component",
+  "price": "91",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a79"
+  },
+  "category": "Electronics",
+  "name": "Phone Whatchamacallit",
+  "price": "82",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a7a"
+  },
+  "category": "Activity",
+  "name": "Fitness Mechanism",
+  "price": "93.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a7b"
+  },
+  "category": "Automotive",
+  "name": "Truck Instrument",
+  "price": "183.95",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a7c"
+  },
+  "category": "Health",
+  "name": "Vitamin Widget",
+  "price": "80.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a7d"
+  },
+  "category": "Home",
+  "name": "Gardening Mechanism",
+  "price": "15.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a7e"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Component",
+  "price": "107.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a7f"
+  },
+  "category": "Home",
+  "name": "Kitchen Doodad",
+  "price": "24",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a80"
+  },
+  "category": "Home",
+  "name": "Gardening Widget",
+  "price": "53",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a81"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Implement",
+  "price": "172.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a82"
+  },
+  "category": "Health",
+  "name": "First Aid Doodad",
+  "price": "91",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a83"
+  },
+  "category": "Automotive",
+  "name": "Tire Device",
+  "price": "67.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a84"
+  },
+  "category": "Home",
+  "name": "Gardening Equipment",
+  "price": "37.95",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a85"
+  },
+  "category": "Clothing",
+  "name": "Mens Tool",
+  "price": "162.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a86"
+  },
+  "category": "Health",
+  "name": "Vitamin Contraption",
+  "price": "171.99",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a87"
+  },
+  "category": "Pets",
+  "name": "Cat Gadget",
+  "price": "18",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a88"
+  },
+  "category": "Health",
+  "name": "Medicine Component",
+  "price": "149",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a89"
+  },
+  "category": "Home",
+  "name": "Storage Tool",
+  "price": "47.95",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a8a"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Widget",
+  "price": "10.99",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a8b"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Implement",
+  "price": "132.99",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a8c"
+  },
+  "category": "Automotive",
+  "name": "Truck Machine",
+  "price": "71.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a8d"
+  },
+  "category": "Entertainment",
+  "name": "Movie Attachment",
+  "price": "197",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a8e"
+  },
+  "category": "Activity",
+  "name": "Camping Device",
+  "price": "151",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a8f"
+  },
+  "category": "Automotive",
+  "name": "Car Instrument",
+  "price": "170",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a90"
+  },
+  "category": "Beauty",
+  "name": "Makeup Apparatus",
+  "price": "16.95",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a91"
+  },
+  "category": "Electronics",
+  "name": "Technology Item",
+  "price": "34",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a92"
+  },
+  "category": "Home",
+  "name": "Gardening Thingamajig",
+  "price": "84.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a93"
+  },
+  "category": "Activity",
+  "name": "Beach Contraption",
+  "price": "105.95",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a94"
+  },
+  "category": "Pets",
+  "name": "Cat Gadget",
+  "price": "11.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a95"
+  },
+  "category": "Health",
+  "name": "Medicine Thingamajig",
+  "price": "192",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a96"
+  },
+  "category": "Home",
+  "name": "Bedding Mechanism",
+  "price": "169.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a97"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Instrument",
+  "price": "39.99",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a98"
+  },
+  "category": "Home",
+  "name": "Bedding Gear",
+  "price": "139",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a99"
+  },
+  "category": "Electronics",
+  "name": "Computer Component",
+  "price": "55.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a9a"
+  },
+  "category": "Home",
+  "name": "Cooking Whatchamacallit",
+  "price": "104",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a9b"
+  },
+  "category": "Activity",
+  "name": "Swimming Widget",
+  "price": "44",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a9c"
+  },
+  "category": "Home",
+  "name": "Cooking Tool",
+  "price": "18.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a9d"
+  },
+  "category": "Automotive",
+  "name": "Car Apparatus",
+  "price": "187.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a9e"
+  },
+  "category": "Clothing",
+  "name": "Baby Mechanism",
+  "price": "61",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064a9f"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Tool",
+  "price": "92",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa0"
+  },
+  "category": "Home",
+  "name": "Kitchen Gadget",
+  "price": "137",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa1"
+  },
+  "category": "Entertainment",
+  "name": "Toy Attachment",
+  "price": "39.95",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa2"
+  },
+  "category": "Activity",
+  "name": "Biking Widget",
+  "price": "171.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa3"
+  },
+  "category": "Pets",
+  "name": "Aquarium Mechanism",
+  "price": "134.95",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa4"
+  },
+  "category": "Health",
+  "name": "First Aid Attachment",
+  "price": "84.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa5"
+  },
+  "category": "Electronics",
+  "name": "Camera Whatchamacallit",
+  "price": "131",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa6"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Contraption",
+  "price": "21",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa7"
+  },
+  "category": "Electronics",
+  "name": "Camera Gadget",
+  "price": "117.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa8"
+  },
+  "category": "Activity",
+  "name": "Camping Rig",
+  "price": "90.99",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aa9"
+  },
+  "category": "Automotive",
+  "name": "Car Paraphernalia",
+  "price": "138.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aaa"
+  },
+  "category": "Beauty",
+  "name": "Makeup Component",
+  "price": "40.99",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aab"
+  },
+  "category": "Clothing",
+  "name": "Mens Doodad",
+  "price": "196",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aac"
+  },
+  "category": "Health",
+  "name": "Nutrition Equipment",
+  "price": "102.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aad"
+  },
+  "category": "Electronics",
+  "name": "Camera Kit",
+  "price": "138.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aae"
+  },
+  "category": "Electronics",
+  "name": "Camera Device",
+  "price": "78.99",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aaf"
+  },
+  "category": "Home",
+  "name": "Storage Mechanism",
+  "price": "166",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab0"
+  },
+  "category": "Home",
+  "name": "Bedding Gadget",
+  "price": "177.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab1"
+  },
+  "category": "Activity",
+  "name": "Camping Paraphernalia",
+  "price": "81.99",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab2"
+  },
+  "category": "Beauty",
+  "name": "Bath Accessory",
+  "price": "17",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab3"
+  },
+  "category": "Health",
+  "name": "Nutrition Mechanism",
+  "price": "14.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab4"
+  },
+  "category": "Activity",
+  "name": "Fitness Component",
+  "price": "80.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab5"
+  },
+  "category": "Entertainment",
+  "name": "Music Doodad",
+  "price": "174",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab6"
+  },
+  "category": "Pets",
+  "name": "Aquarium Apparatus",
+  "price": "141.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab7"
+  },
+  "category": "Activity",
+  "name": "Camping Device",
+  "price": "188.99",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab8"
+  },
+  "category": "Health",
+  "name": "Medicine Machine",
+  "price": "196",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ab9"
+  },
+  "category": "Beauty",
+  "name": "Makeup Tool",
+  "price": "47.99",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aba"
+  },
+  "category": "Clothing",
+  "name": "Womens Paraphernalia",
+  "price": "81",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064abb"
+  },
+  "category": "Entertainment",
+  "name": "Movie Accessory",
+  "price": "80.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064abc"
+  },
+  "category": "Clothing",
+  "name": "Womens Component",
+  "price": "118",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064abd"
+  },
+  "category": "Activity",
+  "name": "Outdoors Component",
+  "price": "64",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064abe"
+  },
+  "category": "Activity",
+  "name": "Swimming Machine",
+  "price": "86.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064abf"
+  },
+  "category": "Home",
+  "name": "Gardening Machine",
+  "price": "47",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac0"
+  },
+  "category": "Beauty",
+  "name": "Bath Whatchamacallit",
+  "price": "139",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac1"
+  },
+  "category": "Electronics",
+  "name": "Camera Rig",
+  "price": "43.99",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac2"
+  },
+  "category": "Home",
+  "name": "Bedding Widget",
+  "price": "106",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac3"
+  },
+  "category": "Entertainment",
+  "name": "Music Widget",
+  "price": "154.99",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac4"
+  },
+  "category": "Home",
+  "name": "Furniture Mechanism",
+  "price": "41.95",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac5"
+  },
+  "category": "Home",
+  "name": "Kitchen Mechanism",
+  "price": "49",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac6"
+  },
+  "category": "Home",
+  "name": "Storage Item",
+  "price": "161.95",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac7"
+  },
+  "category": "Entertainment",
+  "name": "Movie Machine",
+  "price": "70.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac8"
+  },
+  "category": "Beauty",
+  "name": "Bath Whatchamacallit",
+  "price": "113",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ac9"
+  },
+  "category": "Health",
+  "name": "First Aid Tool",
+  "price": "153.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aca"
+  },
+  "category": "Entertainment",
+  "name": "Movie Whatchamacallit",
+  "price": "108.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064acb"
+  },
+  "category": "Entertainment",
+  "name": "Music Machine",
+  "price": "127.95",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064acc"
+  },
+  "category": "Electronics",
+  "name": "Phone Item",
+  "price": "159",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064acd"
+  },
+  "category": "Clothing",
+  "name": "Mens Instrument",
+  "price": "182",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ace"
+  },
+  "category": "Clothing",
+  "name": "Baby Gadget",
+  "price": "65",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064acf"
+  },
+  "category": "Home",
+  "name": "Home Improvement Device",
+  "price": "56",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad0"
+  },
+  "category": "Health",
+  "name": "Nutrition Attachment",
+  "price": "63.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad1"
+  },
+  "category": "Activity",
+  "name": "Sports Equipment",
+  "price": "156.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad2"
+  },
+  "category": "Pets",
+  "name": "Aquarium Equipment",
+  "price": "54.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad3"
+  },
+  "category": "Clothing",
+  "name": "Kids Paraphernalia",
+  "price": "140.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad4"
+  },
+  "category": "Home",
+  "name": "Home Improvement Accessory",
+  "price": "28",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad5"
+  },
+  "category": "Beauty",
+  "name": "Makeup Gizmo",
+  "price": "125.95",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad6"
+  },
+  "category": "Health",
+  "name": "Nutrition Thingamajig",
+  "price": "59.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad7"
+  },
+  "category": "Pets",
+  "name": "Cat Mechanism",
+  "price": "169.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad8"
+  },
+  "category": "Electronics",
+  "name": "Technology Widget",
+  "price": "170",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ad9"
+  },
+  "category": "Clothing",
+  "name": "Kids Item",
+  "price": "152.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ada"
+  },
+  "category": "Home",
+  "name": "Cooking Component",
+  "price": "133.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064adb"
+  },
+  "category": "Entertainment",
+  "name": "Music Apparatus",
+  "price": "14",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064adc"
+  },
+  "category": "Automotive",
+  "name": "Engine Tool",
+  "price": "112",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064add"
+  },
+  "category": "Electronics",
+  "name": "Technology Attachment",
+  "price": "88.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ade"
+  },
+  "category": "Entertainment",
+  "name": "Game Gizmo",
+  "price": "82.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064adf"
+  },
+  "category": "Home",
+  "name": "Home Improvement Doodad",
+  "price": "126.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae0"
+  },
+  "category": "Entertainment",
+  "name": "Music Supplies",
+  "price": "90.99",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae1"
+  },
+  "category": "Electronics",
+  "name": "Camera Device",
+  "price": "19.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae2"
+  },
+  "category": "Health",
+  "name": "Nutrition Mechanism",
+  "price": "16.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae3"
+  },
+  "category": "Automotive",
+  "name": "Car Mechanism",
+  "price": "130",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae4"
+  },
+  "category": "Electronics",
+  "name": "Camera Item",
+  "price": "16",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae5"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Apparatus",
+  "price": "160",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae6"
+  },
+  "category": "Home",
+  "name": "Bedding Equipment",
+  "price": "194",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae7"
+  },
+  "category": "Clothing",
+  "name": "Kids Gizmo",
+  "price": "72",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae8"
+  },
+  "category": "Beauty",
+  "name": "Personal Widget",
+  "price": "116",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ae9"
+  },
+  "category": "Entertainment",
+  "name": "Game Gear",
+  "price": "141",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aea"
+  },
+  "category": "Electronics",
+  "name": "Technology Doodad",
+  "price": "71.99",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aeb"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Supplies",
+  "price": "41.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aec"
+  },
+  "category": "Health",
+  "name": "First Aid Widget",
+  "price": "46.99",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aed"
+  },
+  "category": "Home",
+  "name": "Home Improvement Contraption",
+  "price": "184.99",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aee"
+  },
+  "category": "Home",
+  "name": "Kitchen Instrument",
+  "price": "79.99",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aef"
+  },
+  "category": "Activity",
+  "name": "Fitness Component",
+  "price": "198",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af0"
+  },
+  "category": "Automotive",
+  "name": "Car Instrument",
+  "price": "179",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af1"
+  },
+  "category": "Entertainment",
+  "name": "Toy Gear",
+  "price": "131.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af2"
+  },
+  "category": "Electronics",
+  "name": "Technology Apparatus",
+  "price": "12",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af3"
+  },
+  "category": "Entertainment",
+  "name": "Book Apparatus",
+  "price": "127.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af4"
+  },
+  "category": "Entertainment",
+  "name": "Movie Tool",
+  "price": "49",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af5"
+  },
+  "category": "Electronics",
+  "name": "Phone Gear",
+  "price": "76.95",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af6"
+  },
+  "category": "Automotive",
+  "name": "Tire Apparatus",
+  "price": "27.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af7"
+  },
+  "category": "Health",
+  "name": "First Aid Paraphernalia",
+  "price": "122.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af8"
+  },
+  "category": "Clothing",
+  "name": "Womens Attachment",
+  "price": "86.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064af9"
+  },
+  "category": "Activity",
+  "name": "Beach Apparatus",
+  "price": "17.95",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064afa"
+  },
+  "category": "Home",
+  "name": "Kitchen Contraption",
+  "price": "165.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064afb"
+  },
+  "category": "Beauty",
+  "name": "Bath Apparatus",
+  "price": "42.99",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064afc"
+  },
+  "category": "Health",
+  "name": "Medicine Doodad",
+  "price": "25.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064afd"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Attachment",
+  "price": "85.95",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064afe"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Apparatus",
+  "price": "142",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064aff"
+  },
+  "category": "Home",
+  "name": "Storage Gadget",
+  "price": "183",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b00"
+  },
+  "category": "Activity",
+  "name": "Outdoors Gizmo",
+  "price": "189.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b01"
+  },
+  "category": "Entertainment",
+  "name": "Toy Doodad",
+  "price": "172.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b02"
+  },
+  "category": "Home",
+  "name": "Dining Equipment",
+  "price": "115.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b03"
+  },
+  "category": "Activity",
+  "name": "Beach Gizmo",
+  "price": "171",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b04"
+  },
+  "category": "Electronics",
+  "name": "Phone Attachment",
+  "price": "73",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b05"
+  },
+  "category": "Entertainment",
+  "name": "Party Attachment",
+  "price": "105",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b06"
+  },
+  "category": "Beauty",
+  "name": "Bath Supplies",
+  "price": "61.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b07"
+  },
+  "category": "Electronics",
+  "name": "Phone Tool",
+  "price": "24.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b08"
+  },
+  "category": "Entertainment",
+  "name": "Game Tool",
+  "price": "184.95",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b09"
+  },
+  "category": "Activity",
+  "name": "Fitness Device",
+  "price": "164.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b0a"
+  },
+  "category": "Clothing",
+  "name": "Baby Implement",
+  "price": "160.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b0b"
+  },
+  "category": "Clothing",
+  "name": "Mens Rig",
+  "price": "120.99",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b0c"
+  },
+  "category": "Activity",
+  "name": "Biking Tool",
+  "price": "77.95",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b0d"
+  },
+  "category": "Pets",
+  "name": "Aquarium Paraphernalia",
+  "price": "143",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b0e"
+  },
+  "category": "Entertainment",
+  "name": "Book Component",
+  "price": "181",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b0f"
+  },
+  "category": "Activity",
+  "name": "Swimming Item",
+  "price": "185.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b10"
+  },
+  "category": "Home",
+  "name": "Cooking Device",
+  "price": "175.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b11"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Machine",
+  "price": "194",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b12"
+  },
+  "category": "Clothing",
+  "name": "Mens Machine",
+  "price": "166.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b13"
+  },
+  "category": "Home",
+  "name": "Gardening Gear",
+  "price": "81.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b14"
+  },
+  "category": "Home",
+  "name": "Dining Gizmo",
+  "price": "79",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b15"
+  },
+  "category": "Entertainment",
+  "name": "Game Attachment",
+  "price": "119.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b16"
+  },
+  "category": "Electronics",
+  "name": "Technology Rig",
+  "price": "151.99",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b17"
+  },
+  "category": "Activity",
+  "name": "Camping Gadget",
+  "price": "95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b18"
+  },
+  "category": "Clothing",
+  "name": "Baby Paraphernalia",
+  "price": "105.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b19"
+  },
+  "category": "Activity",
+  "name": "Fitness Instrument",
+  "price": "176.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b1a"
+  },
+  "category": "Clothing",
+  "name": "Kids Apparatus",
+  "price": "30.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b1b"
+  },
+  "category": "Clothing",
+  "name": "Baby Widget",
+  "price": "13",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b1c"
+  },
+  "category": "Electronics",
+  "name": "Technology Item",
+  "price": "177.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b1d"
+  },
+  "category": "Activity",
+  "name": "Biking Contraption",
+  "price": "24.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b1e"
+  },
+  "category": "Electronics",
+  "name": "Camera Mechanism",
+  "price": "176.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b1f"
+  },
+  "category": "Clothing",
+  "name": "Baby Item",
+  "price": "120",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b20"
+  },
+  "category": "Health",
+  "name": "Medicine Accessory",
+  "price": "127.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b21"
+  },
+  "category": "Activity",
+  "name": "Outdoors Gadget",
+  "price": "170.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b22"
+  },
+  "category": "Home",
+  "name": "Cooking Device",
+  "price": "90",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b23"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Device",
+  "price": "47",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b24"
+  },
+  "category": "Pets",
+  "name": "Cat Gear",
+  "price": "85",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b25"
+  },
+  "category": "Home",
+  "name": "Gardening Mechanism",
+  "price": "81",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b26"
+  },
+  "category": "Entertainment",
+  "name": "Movie Whatchamacallit",
+  "price": "154.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b27"
+  },
+  "category": "Health",
+  "name": "Nutrition Tool",
+  "price": "10",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b28"
+  },
+  "category": "Clothing",
+  "name": "Mens Tool",
+  "price": "110.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b29"
+  },
+  "category": "Activity",
+  "name": "Sports Supplies",
+  "price": "155.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b2a"
+  },
+  "category": "Entertainment",
+  "name": "Book Accessory",
+  "price": "146.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b2b"
+  },
+  "category": "Health",
+  "name": "Vitamin Component",
+  "price": "83.99",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b2c"
+  },
+  "category": "Activity",
+  "name": "Sports Attachment",
+  "price": "145.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b2d"
+  },
+  "category": "Home",
+  "name": "Cooking Rig",
+  "price": "67.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b2e"
+  },
+  "category": "Automotive",
+  "name": "Car Attachment",
+  "price": "66.95",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b2f"
+  },
+  "category": "Pets",
+  "name": "Aquarium Item",
+  "price": "120",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b30"
+  },
+  "category": "Beauty",
+  "name": "Makeup Whatchamacallit",
+  "price": "66",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b31"
+  },
+  "category": "Health",
+  "name": "Medicine Contraption",
+  "price": "116",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b32"
+  },
+  "category": "Pets",
+  "name": "Dog Machine",
+  "price": "61.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b33"
+  },
+  "category": "Home",
+  "name": "Storage Device",
+  "price": "180.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b34"
+  },
+  "category": "Entertainment",
+  "name": "Game Rig",
+  "price": "180",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b35"
+  },
+  "category": "Clothing",
+  "name": "Baby Device",
+  "price": "199.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b36"
+  },
+  "category": "Entertainment",
+  "name": "Party Doodad",
+  "price": "69.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b37"
+  },
+  "category": "Activity",
+  "name": "Swimming Machine",
+  "price": "55",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b38"
+  },
+  "category": "Entertainment",
+  "name": "Book Tool",
+  "price": "184.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b39"
+  },
+  "category": "Health",
+  "name": "Nutrition Whatchamacallit",
+  "price": "92.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b3a"
+  },
+  "category": "Health",
+  "name": "Nutrition Contraption",
+  "price": "160",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b3b"
+  },
+  "category": "Health",
+  "name": "Medicine Widget",
+  "price": "27",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b3c"
+  },
+  "category": "Electronics",
+  "name": "Camera Rig",
+  "price": "107.99",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b3d"
+  },
+  "category": "Automotive",
+  "name": "Engine Apparatus",
+  "price": "60.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b3e"
+  },
+  "category": "Pets",
+  "name": "Cat Equipment",
+  "price": "21.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b3f"
+  },
+  "category": "Beauty",
+  "name": "Makeup Apparatus",
+  "price": "23",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b40"
+  },
+  "category": "Electronics",
+  "name": "Camera Device",
+  "price": "85",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b41"
+  },
+  "category": "Clothing",
+  "name": "Baby Mechanism",
+  "price": "42.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b42"
+  },
+  "category": "Activity",
+  "name": "Biking Whatchamacallit",
+  "price": "149",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b43"
+  },
+  "category": "Electronics",
+  "name": "Computer Equipment",
+  "price": "159.99",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b44"
+  },
+  "category": "Electronics",
+  "name": "Camera Equipment",
+  "price": "15.99",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b45"
+  },
+  "category": "Activity",
+  "name": "Outdoors Contraption",
+  "price": "103",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b46"
+  },
+  "category": "Health",
+  "name": "Nutrition Kit",
+  "price": "162",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b47"
+  },
+  "category": "Electronics",
+  "name": "Camera Tool",
+  "price": "23",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b48"
+  },
+  "category": "Home",
+  "name": "Furniture Attachment",
+  "price": "161.95",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b49"
+  },
+  "category": "Home",
+  "name": "Kitchen Item",
+  "price": "150",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b4a"
+  },
+  "category": "Activity",
+  "name": "Beach Accessory",
+  "price": "85.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b4b"
+  },
+  "category": "Home",
+  "name": "Home Improvement Machine",
+  "price": "120.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b4c"
+  },
+  "category": "Activity",
+  "name": "Outdoors Attachment",
+  "price": "57.95",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b4d"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Doodad",
+  "price": "172.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b4e"
+  },
+  "category": "Beauty",
+  "name": "Personal Equipment",
+  "price": "97",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b4f"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Attachment",
+  "price": "87.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b50"
+  },
+  "category": "Beauty",
+  "name": "Personal Machine",
+  "price": "183.99",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b51"
+  },
+  "category": "Health",
+  "name": "First Aid Gear",
+  "price": "68",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b52"
+  },
+  "category": "Pets",
+  "name": "Cat Kit",
+  "price": "32.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b53"
+  },
+  "category": "Beauty",
+  "name": "Personal Apparatus",
+  "price": "70.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b54"
+  },
+  "category": "Health",
+  "name": "First Aid Device",
+  "price": "147.99",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b55"
+  },
+  "category": "Activity",
+  "name": "Sports Gear",
+  "price": "120.99",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b56"
+  },
+  "category": "Electronics",
+  "name": "Phone Contraption",
+  "price": "149.95",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b57"
+  },
+  "category": "Health",
+  "name": "Medicine Contraption",
+  "price": "57.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b58"
+  },
+  "category": "Electronics",
+  "name": "Phone Gadget",
+  "price": "13.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b59"
+  },
+  "category": "Automotive",
+  "name": "Truck Machine",
+  "price": "160.95",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b5a"
+  },
+  "category": "Clothing",
+  "name": "Baby Doodad",
+  "price": "154",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b5b"
+  },
+  "category": "Entertainment",
+  "name": "Party Gadget",
+  "price": "44",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b5c"
+  },
+  "category": "Automotive",
+  "name": "Truck Contraption",
+  "price": "23.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b5d"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Widget",
+  "price": "170.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b5e"
+  },
+  "category": "Home",
+  "name": "Gardening Equipment",
+  "price": "182.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b5f"
+  },
+  "category": "Clothing",
+  "name": "Baby Gadget",
+  "price": "145",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b60"
+  },
+  "category": "Entertainment",
+  "name": "Toy Attachment",
+  "price": "186.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b61"
+  },
+  "category": "Entertainment",
+  "name": "Party Whatchamacallit",
+  "price": "10",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b62"
+  },
+  "category": "Clothing",
+  "name": "Baby Rig",
+  "price": "117.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b63"
+  },
+  "category": "Activity",
+  "name": "Sports Attachment",
+  "price": "83.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b64"
+  },
+  "category": "Clothing",
+  "name": "Womens Supplies",
+  "price": "107",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b65"
+  },
+  "category": "Electronics",
+  "name": "Technology Contraption",
+  "price": "35.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b66"
+  },
+  "category": "Home",
+  "name": "Bedding Apparatus",
+  "price": "150.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b67"
+  },
+  "category": "Beauty",
+  "name": "Personal Supplies",
+  "price": "177.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b68"
+  },
+  "category": "Home",
+  "name": "Cleaning Widget",
+  "price": "81.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b69"
+  },
+  "category": "Electronics",
+  "name": "Phone Item",
+  "price": "150",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b6a"
+  },
+  "category": "Health",
+  "name": "Vitamin Gadget",
+  "price": "185",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b6b"
+  },
+  "category": "Electronics",
+  "name": "Computer Gear",
+  "price": "37.99",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b6c"
+  },
+  "category": "Activity",
+  "name": "Fitness Tool",
+  "price": "69.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b6d"
+  },
+  "category": "Electronics",
+  "name": "Technology Implement",
+  "price": "150.99",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b6e"
+  },
+  "category": "Automotive",
+  "name": "Tire Gear",
+  "price": "61.95",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b6f"
+  },
+  "category": "Entertainment",
+  "name": "Music Doodad",
+  "price": "31.95",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b70"
+  },
+  "category": "Entertainment",
+  "name": "Book Machine",
+  "price": "181.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b71"
+  },
+  "category": "Pets",
+  "name": "Cat Apparatus",
+  "price": "169.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b72"
+  },
+  "category": "Home",
+  "name": "Furniture Apparatus",
+  "price": "38.95",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b73"
+  },
+  "category": "Electronics",
+  "name": "Technology Device",
+  "price": "168.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b74"
+  },
+  "category": "Clothing",
+  "name": "Kids Paraphernalia",
+  "price": "148.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b75"
+  },
+  "category": "Automotive",
+  "name": "Engine Accessory",
+  "price": "94.99",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b76"
+  },
+  "category": "Health",
+  "name": "Vitamin Accessory",
+  "price": "129.99",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b77"
+  },
+  "category": "Home",
+  "name": "Home Improvement Component",
+  "price": "177.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b78"
+  },
+  "category": "Pets",
+  "name": "Cat Widget",
+  "price": "120",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b79"
+  },
+  "category": "Pets",
+  "name": "Aquarium Component",
+  "price": "176.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b7a"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Tool",
+  "price": "175",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b7b"
+  },
+  "category": "Health",
+  "name": "Medicine Item",
+  "price": "185",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b7c"
+  },
+  "category": "Clothing",
+  "name": "Baby Thingamajig",
+  "price": "184.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b7d"
+  },
+  "category": "Activity",
+  "name": "Sports Thingamajig",
+  "price": "85.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b7e"
+  },
+  "category": "Electronics",
+  "name": "Technology Paraphernalia",
+  "price": "42.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b7f"
+  },
+  "category": "Entertainment",
+  "name": "Toy Rig",
+  "price": "159.95",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b80"
+  },
+  "category": "Automotive",
+  "name": "Car Tool",
+  "price": "15.95",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b81"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Thingamajig",
+  "price": "68",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b82"
+  },
+  "category": "Electronics",
+  "name": "Technology Paraphernalia",
+  "price": "34",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b83"
+  },
+  "category": "Health",
+  "name": "First Aid Attachment",
+  "price": "108.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b84"
+  },
+  "category": "Home",
+  "name": "Dining Item",
+  "price": "187.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b85"
+  },
+  "category": "Electronics",
+  "name": "Phone Supplies",
+  "price": "144.95",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b86"
+  },
+  "category": "Entertainment",
+  "name": "Book Supplies",
+  "price": "168",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b87"
+  },
+  "category": "Health",
+  "name": "Nutrition Contraption",
+  "price": "63.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b88"
+  },
+  "category": "Activity",
+  "name": "Camping Attachment",
+  "price": "51.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b89"
+  },
+  "category": "Clothing",
+  "name": "Womens Kit",
+  "price": "27",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b8a"
+  },
+  "category": "Home",
+  "name": "Cleaning Machine",
+  "price": "21.95",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b8b"
+  },
+  "category": "Entertainment",
+  "name": "Game Device",
+  "price": "112.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b8c"
+  },
+  "category": "Entertainment",
+  "name": "Toy Mechanism",
+  "price": "145.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b8d"
+  },
+  "category": "Home",
+  "name": "Dining Rig",
+  "price": "139.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b8e"
+  },
+  "category": "Electronics",
+  "name": "Computer Rig",
+  "price": "80",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b8f"
+  },
+  "category": "Entertainment",
+  "name": "Book Machine",
+  "price": "178",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b90"
+  },
+  "category": "Activity",
+  "name": "Outdoors Kit",
+  "price": "166.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b91"
+  },
+  "category": "Automotive",
+  "name": "Truck Rig",
+  "price": "71",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b92"
+  },
+  "category": "Pets",
+  "name": "Dog Rig",
+  "price": "12.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b93"
+  },
+  "category": "Entertainment",
+  "name": "Toy Gear",
+  "price": "171",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b94"
+  },
+  "category": "Automotive",
+  "name": "Tire Implement",
+  "price": "65.95",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b95"
+  },
+  "category": "Pets",
+  "name": "Cat Accessory",
+  "price": "67.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b96"
+  },
+  "category": "Home",
+  "name": "Cleaning Gadget",
+  "price": "138.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b97"
+  },
+  "category": "Activity",
+  "name": "Camping Gadget",
+  "price": "83",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b98"
+  },
+  "category": "Home",
+  "name": "Home Improvement Tool",
+  "price": "198.99",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b99"
+  },
+  "category": "Activity",
+  "name": "Fitness Attachment",
+  "price": "60.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b9a"
+  },
+  "category": "Activity",
+  "name": "Outdoors Contraption",
+  "price": "100",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b9b"
+  },
+  "category": "Activity",
+  "name": "Biking Machine",
+  "price": "88.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b9c"
+  },
+  "category": "Electronics",
+  "name": "Computer Item",
+  "price": "58.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b9d"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Thingamajig",
+  "price": "14.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b9e"
+  },
+  "category": "Home",
+  "name": "Gardening Machine",
+  "price": "59",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064b9f"
+  },
+  "category": "Clothing",
+  "name": "Baby Supplies",
+  "price": "172.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba0"
+  },
+  "category": "Home",
+  "name": "Cleaning Thingamajig",
+  "price": "109.95",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba1"
+  },
+  "category": "Electronics",
+  "name": "Phone Whatchamacallit",
+  "price": "137.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba2"
+  },
+  "category": "Clothing",
+  "name": "Womens Attachment",
+  "price": "193.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba3"
+  },
+  "category": "Activity",
+  "name": "Biking Gizmo",
+  "price": "111.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba4"
+  },
+  "category": "Activity",
+  "name": "Beach Machine",
+  "price": "134",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba5"
+  },
+  "category": "Home",
+  "name": "Cooking Accessory",
+  "price": "48",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba6"
+  },
+  "category": "Automotive",
+  "name": "Truck Implement",
+  "price": "47.95",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba7"
+  },
+  "category": "Entertainment",
+  "name": "Game Device",
+  "price": "36",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba8"
+  },
+  "category": "Automotive",
+  "name": "Car Mechanism",
+  "price": "109.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ba9"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Gadget",
+  "price": "120.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064baa"
+  },
+  "category": "Home",
+  "name": "Cleaning Gear",
+  "price": "87.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bab"
+  },
+  "category": "Home",
+  "name": "Storage Equipment",
+  "price": "178.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bac"
+  },
+  "category": "Entertainment",
+  "name": "Game Rig",
+  "price": "102",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bad"
+  },
+  "category": "Automotive",
+  "name": "Tire Supplies",
+  "price": "137.95",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bae"
+  },
+  "category": "Home",
+  "name": "Bedding Widget",
+  "price": "116.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064baf"
+  },
+  "category": "Entertainment",
+  "name": "Toy Contraption",
+  "price": "171.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb0"
+  },
+  "category": "Pets",
+  "name": "Aquarium Implement",
+  "price": "137.95",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb1"
+  },
+  "category": "Entertainment",
+  "name": "Book Machine",
+  "price": "95.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb2"
+  },
+  "category": "Activity",
+  "name": "Outdoors Attachment",
+  "price": "174",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb3"
+  },
+  "category": "Home",
+  "name": "Cleaning Accessory",
+  "price": "170.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb4"
+  },
+  "category": "Activity",
+  "name": "Biking Supplies",
+  "price": "173",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb5"
+  },
+  "category": "Home",
+  "name": "Home Improvement Thingamajig",
+  "price": "131.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb6"
+  },
+  "category": "Beauty",
+  "name": "Bath Attachment",
+  "price": "148.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb7"
+  },
+  "category": "Clothing",
+  "name": "Womens Tool",
+  "price": "152.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb8"
+  },
+  "category": "Home",
+  "name": "Bedding Item",
+  "price": "128",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bb9"
+  },
+  "category": "Activity",
+  "name": "Beach Gadget",
+  "price": "46.95",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bba"
+  },
+  "category": "Health",
+  "name": "Medicine Device",
+  "price": "184.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bbb"
+  },
+  "category": "Health",
+  "name": "Vitamin Widget",
+  "price": "43",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bbc"
+  },
+  "category": "Health",
+  "name": "First Aid Contraption",
+  "price": "186.99",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bbd"
+  },
+  "category": "Activity",
+  "name": "Outdoors Gear",
+  "price": "192",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bbe"
+  },
+  "category": "Beauty",
+  "name": "Bath Rig",
+  "price": "35.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bbf"
+  },
+  "category": "Beauty",
+  "name": "Makeup Implement",
+  "price": "112.99",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc0"
+  },
+  "category": "Entertainment",
+  "name": "Music Widget",
+  "price": "138",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc1"
+  },
+  "category": "Pets",
+  "name": "Dog Rig",
+  "price": "60.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc2"
+  },
+  "category": "Electronics",
+  "name": "Technology Item",
+  "price": "190",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc3"
+  },
+  "category": "Beauty",
+  "name": "Personal Supplies",
+  "price": "145.99",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc4"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Gear",
+  "price": "98.99",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc5"
+  },
+  "category": "Pets",
+  "name": "Dog Device",
+  "price": "58",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc6"
+  },
+  "category": "Activity",
+  "name": "Sports Apparatus",
+  "price": "176",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc7"
+  },
+  "category": "Home",
+  "name": "Bedding Whatchamacallit",
+  "price": "127.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc8"
+  },
+  "category": "Home",
+  "name": "Furniture Gizmo",
+  "price": "161",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bc9"
+  },
+  "category": "Entertainment",
+  "name": "Music Apparatus",
+  "price": "56.95",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bca"
+  },
+  "category": "Entertainment",
+  "name": "Movie Paraphernalia",
+  "price": "17",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bcb"
+  },
+  "category": "Activity",
+  "name": "Fitness Mechanism",
+  "price": "145",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bcc"
+  },
+  "category": "Activity",
+  "name": "Beach Widget",
+  "price": "193",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bcd"
+  },
+  "category": "Entertainment",
+  "name": "Music Gadget",
+  "price": "123",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bce"
+  },
+  "category": "Clothing",
+  "name": "Mens Kit",
+  "price": "48.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bcf"
+  },
+  "category": "Activity",
+  "name": "Swimming Apparatus",
+  "price": "141.95",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd0"
+  },
+  "category": "Home",
+  "name": "Cleaning Doodad",
+  "price": "11.95",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd1"
+  },
+  "category": "Clothing",
+  "name": "Womens Paraphernalia",
+  "price": "169",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd2"
+  },
+  "category": "Electronics",
+  "name": "Computer Thingamajig",
+  "price": "164",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd3"
+  },
+  "category": "Clothing",
+  "name": "Mens Kit",
+  "price": "100.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd4"
+  },
+  "category": "Entertainment",
+  "name": "Party Attachment",
+  "price": "149.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd5"
+  },
+  "category": "Home",
+  "name": "Home Improvement Accessory",
+  "price": "183.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd6"
+  },
+  "category": "Activity",
+  "name": "Beach Thingamajig",
+  "price": "17",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd7"
+  },
+  "category": "Automotive",
+  "name": "Engine Supplies",
+  "price": "88.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd8"
+  },
+  "category": "Home",
+  "name": "Cleaning Implement",
+  "price": "72.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bd9"
+  },
+  "category": "Clothing",
+  "name": "Mens Attachment",
+  "price": "90",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bda"
+  },
+  "category": "Health",
+  "name": "Nutrition Mechanism",
+  "price": "182.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bdb"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Gear",
+  "price": "121",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bdc"
+  },
+  "category": "Activity",
+  "name": "Biking Item",
+  "price": "197.95",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bdd"
+  },
+  "category": "Activity",
+  "name": "Sports Supplies",
+  "price": "135",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bde"
+  },
+  "category": "Electronics",
+  "name": "Computer Accessory",
+  "price": "33",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bdf"
+  },
+  "category": "Home",
+  "name": "Storage Implement",
+  "price": "44.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be0"
+  },
+  "category": "Home",
+  "name": "Kitchen Machine",
+  "price": "81.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be1"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Gizmo",
+  "price": "63.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be2"
+  },
+  "category": "Home",
+  "name": "Furniture Gizmo",
+  "price": "83",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be3"
+  },
+  "category": "Activity",
+  "name": "Outdoors Whatchamacallit",
+  "price": "108.95",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be4"
+  },
+  "category": "Activity",
+  "name": "Biking Gizmo",
+  "price": "101.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be5"
+  },
+  "category": "Pets",
+  "name": "Cat Device",
+  "price": "156.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be6"
+  },
+  "category": "Health",
+  "name": "Medicine Rig",
+  "price": "193.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be7"
+  },
+  "category": "Activity",
+  "name": "Sports Machine",
+  "price": "144.99",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be8"
+  },
+  "category": "Beauty",
+  "name": "Bath Contraption",
+  "price": "83.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064be9"
+  },
+  "category": "Health",
+  "name": "Vitamin Accessory",
+  "price": "112.99",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bea"
+  },
+  "category": "Home",
+  "name": "Storage Paraphernalia",
+  "price": "77",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064beb"
+  },
+  "category": "Entertainment",
+  "name": "Movie Mechanism",
+  "price": "141",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bec"
+  },
+  "category": "Activity",
+  "name": "Swimming Equipment",
+  "price": "119",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bed"
+  },
+  "category": "Pets",
+  "name": "Dog Thingamajig",
+  "price": "56.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bee"
+  },
+  "category": "Entertainment",
+  "name": "Book Mechanism",
+  "price": "132",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bef"
+  },
+  "category": "Home",
+  "name": "Dining Tool",
+  "price": "51.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf0"
+  },
+  "category": "Activity",
+  "name": "Swimming Component",
+  "price": "111.95",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf1"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Item",
+  "price": "63",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf2"
+  },
+  "category": "Pets",
+  "name": "Dog Gizmo",
+  "price": "82.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf3"
+  },
+  "category": "Health",
+  "name": "Vitamin Contraption",
+  "price": "82.99",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf4"
+  },
+  "category": "Beauty",
+  "name": "Makeup Paraphernalia",
+  "price": "71.95",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf5"
+  },
+  "category": "Health",
+  "name": "First Aid Mechanism",
+  "price": "112.99",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf6"
+  },
+  "category": "Activity",
+  "name": "Outdoors Rig",
+  "price": "190.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf7"
+  },
+  "category": "Pets",
+  "name": "Dog Component",
+  "price": "156.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf8"
+  },
+  "category": "Automotive",
+  "name": "Tire Accessory",
+  "price": "142",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bf9"
+  },
+  "category": "Entertainment",
+  "name": "Game Accessory",
+  "price": "126.95",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bfa"
+  },
+  "category": "Activity",
+  "name": "Camping Tool",
+  "price": "92.99",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bfb"
+  },
+  "category": "Automotive",
+  "name": "Car Gizmo",
+  "price": "187",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bfc"
+  },
+  "category": "Health",
+  "name": "Medicine Component",
+  "price": "184",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bfd"
+  },
+  "category": "Activity",
+  "name": "Biking Gizmo",
+  "price": "104",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bfe"
+  },
+  "category": "Entertainment",
+  "name": "Book Whatchamacallit",
+  "price": "150.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064bff"
+  },
+  "category": "Clothing",
+  "name": "Womens Tool",
+  "price": "71",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c00"
+  },
+  "category": "Entertainment",
+  "name": "Party Whatchamacallit",
+  "price": "96",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c01"
+  },
+  "category": "Automotive",
+  "name": "Tire Gizmo",
+  "price": "193.95",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c02"
+  },
+  "category": "Pets",
+  "name": "Dog Instrument",
+  "price": "148.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c03"
+  },
+  "category": "Automotive",
+  "name": "Engine Implement",
+  "price": "39.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c04"
+  },
+  "category": "Pets",
+  "name": "Cat Doodad",
+  "price": "192.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c05"
+  },
+  "category": "Electronics",
+  "name": "Computer Instrument",
+  "price": "103.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c06"
+  },
+  "category": "Home",
+  "name": "Bedding Gear",
+  "price": "145.99",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c07"
+  },
+  "category": "Home",
+  "name": "Cleaning Item",
+  "price": "125.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c08"
+  },
+  "category": "Activity",
+  "name": "Swimming Apparatus",
+  "price": "142.95",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c09"
+  },
+  "category": "Health",
+  "name": "First Aid Supplies",
+  "price": "90.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c0a"
+  },
+  "category": "Activity",
+  "name": "Biking Mechanism",
+  "price": "112.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c0b"
+  },
+  "category": "Health",
+  "name": "Vitamin Supplies",
+  "price": "195.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c0c"
+  },
+  "category": "Clothing",
+  "name": "Mens Kit",
+  "price": "122.99",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c0d"
+  },
+  "category": "Beauty",
+  "name": "Personal Gizmo",
+  "price": "94",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c0e"
+  },
+  "category": "Electronics",
+  "name": "Phone Accessory",
+  "price": "10",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c0f"
+  },
+  "category": "Health",
+  "name": "Medicine Mechanism",
+  "price": "113.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c10"
+  },
+  "category": "Activity",
+  "name": "Fitness Item",
+  "price": "25",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c11"
+  },
+  "category": "Electronics",
+  "name": "Technology Gadget",
+  "price": "130",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c12"
+  },
+  "category": "Automotive",
+  "name": "Car Component",
+  "price": "145.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c13"
+  },
+  "category": "Entertainment",
+  "name": "Toy Whatchamacallit",
+  "price": "86",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c14"
+  },
+  "category": "Activity",
+  "name": "Outdoors Device",
+  "price": "198.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c15"
+  },
+  "category": "Automotive",
+  "name": "Truck Gadget",
+  "price": "101.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c16"
+  },
+  "category": "Activity",
+  "name": "Swimming Contraption",
+  "price": "159.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c17"
+  },
+  "category": "Health",
+  "name": "First Aid Tool",
+  "price": "182",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c18"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Gizmo",
+  "price": "115",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c19"
+  },
+  "category": "Beauty",
+  "name": "Personal Gizmo",
+  "price": "50.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c1a"
+  },
+  "category": "Home",
+  "name": "Storage Component",
+  "price": "29",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c1b"
+  },
+  "category": "Activity",
+  "name": "Camping Device",
+  "price": "43.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c1c"
+  },
+  "category": "Automotive",
+  "name": "Engine Widget",
+  "price": "145.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c1d"
+  },
+  "category": "Entertainment",
+  "name": "Book Machine",
+  "price": "75.95",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c1e"
+  },
+  "category": "Clothing",
+  "name": "Baby Thingamajig",
+  "price": "63.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c1f"
+  },
+  "category": "Pets",
+  "name": "Cat Gear",
+  "price": "130.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c20"
+  },
+  "category": "Pets",
+  "name": "Dog Component",
+  "price": "72",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c21"
+  },
+  "category": "Activity",
+  "name": "Beach Attachment",
+  "price": "89.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c22"
+  },
+  "category": "Entertainment",
+  "name": "Music Mechanism",
+  "price": "36",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c23"
+  },
+  "category": "Home",
+  "name": "Cleaning Paraphernalia",
+  "price": "86.95",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c24"
+  },
+  "category": "Health",
+  "name": "Vitamin Attachment",
+  "price": "12.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c25"
+  },
+  "category": "Health",
+  "name": "Medicine Rig",
+  "price": "91.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c26"
+  },
+  "category": "Clothing",
+  "name": "Mens Item",
+  "price": "172.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c27"
+  },
+  "category": "Pets",
+  "name": "Cat Supplies",
+  "price": "94.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c28"
+  },
+  "category": "Beauty",
+  "name": "Bath Machine",
+  "price": "88",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c29"
+  },
+  "category": "Clothing",
+  "name": "Womens Contraption",
+  "price": "142.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c2a"
+  },
+  "category": "Activity",
+  "name": "Swimming Kit",
+  "price": "39.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c2b"
+  },
+  "category": "Health",
+  "name": "Vitamin Gizmo",
+  "price": "165.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c2c"
+  },
+  "category": "Electronics",
+  "name": "Technology Item",
+  "price": "35.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c2d"
+  },
+  "category": "Clothing",
+  "name": "Womens Paraphernalia",
+  "price": "199.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c2e"
+  },
+  "category": "Electronics",
+  "name": "Computer Mechanism",
+  "price": "112.99",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c2f"
+  },
+  "category": "Entertainment",
+  "name": "Music Gizmo",
+  "price": "71.95",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c30"
+  },
+  "category": "Automotive",
+  "name": "Tire Thingamajig",
+  "price": "154.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c31"
+  },
+  "category": "Clothing",
+  "name": "Womens Tool",
+  "price": "122.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c32"
+  },
+  "category": "Beauty",
+  "name": "Personal Instrument",
+  "price": "70",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c33"
+  },
+  "category": "Entertainment",
+  "name": "Toy Implement",
+  "price": "167.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c34"
+  },
+  "category": "Entertainment",
+  "name": "Book Kit",
+  "price": "91",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c35"
+  },
+  "category": "Home",
+  "name": "Home Improvement Item",
+  "price": "16.99",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c36"
+  },
+  "category": "Clothing",
+  "name": "Mens Whatchamacallit",
+  "price": "37.99",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c37"
+  },
+  "category": "Home",
+  "name": "Bedding Contraption",
+  "price": "22.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c38"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Gizmo",
+  "price": "73",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c39"
+  },
+  "category": "Clothing",
+  "name": "Kids Thingamajig",
+  "price": "173.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c3a"
+  },
+  "category": "Activity",
+  "name": "Outdoors Accessory",
+  "price": "102.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c3b"
+  },
+  "category": "Activity",
+  "name": "Swimming Gizmo",
+  "price": "121.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c3c"
+  },
+  "category": "Home",
+  "name": "Gardening Contraption",
+  "price": "56",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c3d"
+  },
+  "category": "Clothing",
+  "name": "Baby Machine",
+  "price": "119",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c3e"
+  },
+  "category": "Activity",
+  "name": "Fitness Machine",
+  "price": "92",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c3f"
+  },
+  "category": "Clothing",
+  "name": "Mens Device",
+  "price": "86.99",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c40"
+  },
+  "category": "Activity",
+  "name": "Fitness Rig",
+  "price": "141.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c41"
+  },
+  "category": "Automotive",
+  "name": "Truck Gadget",
+  "price": "171.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c42"
+  },
+  "category": "Home",
+  "name": "Dining Instrument",
+  "price": "60.95",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c43"
+  },
+  "category": "Home",
+  "name": "Dining Equipment",
+  "price": "32.95",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c44"
+  },
+  "category": "Clothing",
+  "name": "Womens Implement",
+  "price": "13",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c45"
+  },
+  "category": "Home",
+  "name": "Kitchen Gear",
+  "price": "30",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c46"
+  },
+  "category": "Home",
+  "name": "Cleaning Accessory",
+  "price": "153",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c47"
+  },
+  "category": "Home",
+  "name": "Bedding Widget",
+  "price": "41.99",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c48"
+  },
+  "category": "Activity",
+  "name": "Outdoors Apparatus",
+  "price": "19.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c49"
+  },
+  "category": "Home",
+  "name": "Kitchen Tool",
+  "price": "144.99",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c4a"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Rig",
+  "price": "53.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c4b"
+  },
+  "category": "Automotive",
+  "name": "Car Gadget",
+  "price": "115.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c4c"
+  },
+  "category": "Activity",
+  "name": "Biking Mechanism",
+  "price": "52.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c4d"
+  },
+  "category": "Beauty",
+  "name": "Makeup Supplies",
+  "price": "164",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c4e"
+  },
+  "category": "Beauty",
+  "name": "Personal Whatchamacallit",
+  "price": "117.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c4f"
+  },
+  "category": "Health",
+  "name": "Medicine Attachment",
+  "price": "13.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c50"
+  },
+  "category": "Clothing",
+  "name": "Womens Accessory",
+  "price": "24",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c51"
+  },
+  "category": "Clothing",
+  "name": "Womens Gadget",
+  "price": "174.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c52"
+  },
+  "category": "Automotive",
+  "name": "Engine Implement",
+  "price": "40.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c53"
+  },
+  "category": "Home",
+  "name": "Gardening Machine",
+  "price": "41.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c54"
+  },
+  "category": "Home",
+  "name": "Storage Doodad",
+  "price": "51.95",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c55"
+  },
+  "category": "Activity",
+  "name": "Fitness Machine",
+  "price": "110.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c56"
+  },
+  "category": "Activity",
+  "name": "Outdoors Paraphernalia",
+  "price": "109",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c57"
+  },
+  "category": "Pets",
+  "name": "Cat Gizmo",
+  "price": "125",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c58"
+  },
+  "category": "Activity",
+  "name": "Sports Contraption",
+  "price": "157.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c59"
+  },
+  "category": "Activity",
+  "name": "Swimming Rig",
+  "price": "165.99",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c5a"
+  },
+  "category": "Home",
+  "name": "Dining Gadget",
+  "price": "131.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c5b"
+  },
+  "category": "Activity",
+  "name": "Fitness Item",
+  "price": "20.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c5c"
+  },
+  "category": "Health",
+  "name": "Medicine Gadget",
+  "price": "67",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c5d"
+  },
+  "category": "Entertainment",
+  "name": "Music Doodad",
+  "price": "119.99",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c5e"
+  },
+  "category": "Automotive",
+  "name": "Engine Item",
+  "price": "22.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c5f"
+  },
+  "category": "Activity",
+  "name": "Beach Implement",
+  "price": "183.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c60"
+  },
+  "category": "Clothing",
+  "name": "Kids Accessory",
+  "price": "168.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c61"
+  },
+  "category": "Home",
+  "name": "Furniture Contraption",
+  "price": "101.99",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c62"
+  },
+  "category": "Beauty",
+  "name": "Bath Rig",
+  "price": "93",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c63"
+  },
+  "category": "Automotive",
+  "name": "Car Gadget",
+  "price": "127",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c64"
+  },
+  "category": "Entertainment",
+  "name": "Music Whatchamacallit",
+  "price": "163",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c65"
+  },
+  "category": "Entertainment",
+  "name": "Music Supplies",
+  "price": "108.99",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c66"
+  },
+  "category": "Clothing",
+  "name": "Womens Implement",
+  "price": "90.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c67"
+  },
+  "category": "Electronics",
+  "name": "Phone Doodad",
+  "price": "48.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c68"
+  },
+  "category": "Home",
+  "name": "Cleaning Apparatus",
+  "price": "121.99",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c69"
+  },
+  "category": "Automotive",
+  "name": "Car Machine",
+  "price": "114",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c6a"
+  },
+  "category": "Health",
+  "name": "Vitamin Accessory",
+  "price": "68.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c6b"
+  },
+  "category": "Automotive",
+  "name": "Tire Attachment",
+  "price": "56.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c6c"
+  },
+  "category": "Home",
+  "name": "Storage Gadget",
+  "price": "46.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c6d"
+  },
+  "category": "Electronics",
+  "name": "Camera Equipment",
+  "price": "195.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c6e"
+  },
+  "category": "Pets",
+  "name": "Cat Contraption",
+  "price": "46.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c6f"
+  },
+  "category": "Activity",
+  "name": "Fitness Thingamajig",
+  "price": "17.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c70"
+  },
+  "category": "Entertainment",
+  "name": "Party Gizmo",
+  "price": "79.95",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c71"
+  },
+  "category": "Beauty",
+  "name": "Bath Kit",
+  "price": "138.99",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c72"
+  },
+  "category": "Home",
+  "name": "Storage Device",
+  "price": "42",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c73"
+  },
+  "category": "Automotive",
+  "name": "Engine Paraphernalia",
+  "price": "85.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c74"
+  },
+  "category": "Entertainment",
+  "name": "Toy Contraption",
+  "price": "140",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c75"
+  },
+  "category": "Entertainment",
+  "name": "Music Widget",
+  "price": "57",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c76"
+  },
+  "category": "Entertainment",
+  "name": "Movie Apparatus",
+  "price": "76.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c77"
+  },
+  "category": "Activity",
+  "name": "Sports Gear",
+  "price": "41.99",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c78"
+  },
+  "category": "Entertainment",
+  "name": "Toy Widget",
+  "price": "34.95",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c79"
+  },
+  "category": "Health",
+  "name": "Vitamin Instrument",
+  "price": "86",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c7a"
+  },
+  "category": "Entertainment",
+  "name": "Toy Instrument",
+  "price": "114.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c7b"
+  },
+  "category": "Automotive",
+  "name": "Truck Contraption",
+  "price": "34.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c7c"
+  },
+  "category": "Entertainment",
+  "name": "Game Apparatus",
+  "price": "62.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c7d"
+  },
+  "category": "Health",
+  "name": "Vitamin Contraption",
+  "price": "183.95",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c7e"
+  },
+  "category": "Automotive",
+  "name": "Tire Paraphernalia",
+  "price": "38.95",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c7f"
+  },
+  "category": "Activity",
+  "name": "Camping Paraphernalia",
+  "price": "169.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c80"
+  },
+  "category": "Entertainment",
+  "name": "Toy Paraphernalia",
+  "price": "182.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c81"
+  },
+  "category": "Activity",
+  "name": "Beach Machine",
+  "price": "193.95",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c82"
+  },
+  "category": "Entertainment",
+  "name": "Party Gadget",
+  "price": "190.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c83"
+  },
+  "category": "Pets",
+  "name": "Cat Gizmo",
+  "price": "94.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c84"
+  },
+  "category": "Pets",
+  "name": "Cat Gear",
+  "price": "23.99",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c85"
+  },
+  "category": "Clothing",
+  "name": "Kids Paraphernalia",
+  "price": "131.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c86"
+  },
+  "category": "Electronics",
+  "name": "Computer Paraphernalia",
+  "price": "157",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c87"
+  },
+  "category": "Home",
+  "name": "Storage Machine",
+  "price": "35.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c88"
+  },
+  "category": "Activity",
+  "name": "Sports Apparatus",
+  "price": "146",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c89"
+  },
+  "category": "Home",
+  "name": "Cooking Whatchamacallit",
+  "price": "125.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c8a"
+  },
+  "category": "Entertainment",
+  "name": "Movie Attachment",
+  "price": "166",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c8b"
+  },
+  "category": "Automotive",
+  "name": "Tire Thingamajig",
+  "price": "48",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c8c"
+  },
+  "category": "Entertainment",
+  "name": "Toy Paraphernalia",
+  "price": "159.95",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c8d"
+  },
+  "category": "Home",
+  "name": "Storage Rig",
+  "price": "157",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c8e"
+  },
+  "category": "Entertainment",
+  "name": "Movie Item",
+  "price": "147.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c8f"
+  },
+  "category": "Automotive",
+  "name": "Car Device",
+  "price": "26.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c90"
+  },
+  "category": "Clothing",
+  "name": "Kids Whatchamacallit",
+  "price": "121.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c91"
+  },
+  "category": "Electronics",
+  "name": "Camera Apparatus",
+  "price": "193.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c92"
+  },
+  "category": "Entertainment",
+  "name": "Game Kit",
+  "price": "18",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c93"
+  },
+  "category": "Clothing",
+  "name": "Mens Equipment",
+  "price": "193.99",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c94"
+  },
+  "category": "Entertainment",
+  "name": "Party Mechanism",
+  "price": "43",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c95"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Paraphernalia",
+  "price": "138.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c96"
+  },
+  "category": "Beauty",
+  "name": "Personal Item",
+  "price": "70.99",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c97"
+  },
+  "category": "Activity",
+  "name": "Beach Contraption",
+  "price": "61",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c98"
+  },
+  "category": "Home",
+  "name": "Cooking Component",
+  "price": "91.95",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c99"
+  },
+  "category": "Activity",
+  "name": "Camping Equipment",
+  "price": "25.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c9a"
+  },
+  "category": "Electronics",
+  "name": "Computer Item",
+  "price": "119.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c9b"
+  },
+  "category": "Clothing",
+  "name": "Baby Gizmo",
+  "price": "15",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c9c"
+  },
+  "category": "Home",
+  "name": "Dining Rig",
+  "price": "105.95",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c9d"
+  },
+  "category": "Electronics",
+  "name": "Computer Gadget",
+  "price": "99.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c9e"
+  },
+  "category": "Activity",
+  "name": "Fitness Paraphernalia",
+  "price": "18",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064c9f"
+  },
+  "category": "Clothing",
+  "name": "Womens Machine",
+  "price": "45.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca0"
+  },
+  "category": "Home",
+  "name": "Bedding Widget",
+  "price": "104",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca1"
+  },
+  "category": "Activity",
+  "name": "Camping Supplies",
+  "price": "185.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca2"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Attachment",
+  "price": "24.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca3"
+  },
+  "category": "Automotive",
+  "name": "Engine Contraption",
+  "price": "151",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca4"
+  },
+  "category": "Activity",
+  "name": "Beach Mechanism",
+  "price": "94.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca5"
+  },
+  "category": "Clothing",
+  "name": "Womens Device",
+  "price": "189.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca6"
+  },
+  "category": "Activity",
+  "name": "Outdoors Component",
+  "price": "91.95",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca7"
+  },
+  "category": "Pets",
+  "name": "Aquarium Supplies",
+  "price": "118.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca8"
+  },
+  "category": "Entertainment",
+  "name": "Book Component",
+  "price": "119.95",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ca9"
+  },
+  "category": "Home",
+  "name": "Kitchen Widget",
+  "price": "184.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064caa"
+  },
+  "category": "Automotive",
+  "name": "Tire Tool",
+  "price": "64.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cab"
+  },
+  "category": "Home",
+  "name": "Furniture Contraption",
+  "price": "65.95",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cac"
+  },
+  "category": "Clothing",
+  "name": "Kids Item",
+  "price": "175",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cad"
+  },
+  "category": "Activity",
+  "name": "Outdoors Apparatus",
+  "price": "180.95",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cae"
+  },
+  "category": "Beauty",
+  "name": "Personal Mechanism",
+  "price": "143",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064caf"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Instrument",
+  "price": "88.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb0"
+  },
+  "category": "Health",
+  "name": "Medicine Gear",
+  "price": "20.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb1"
+  },
+  "category": "Home",
+  "name": "Cooking Widget",
+  "price": "83.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb2"
+  },
+  "category": "Pets",
+  "name": "Cat Accessory",
+  "price": "199.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb3"
+  },
+  "category": "Home",
+  "name": "Kitchen Component",
+  "price": "93.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb4"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Kit",
+  "price": "87",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb5"
+  },
+  "category": "Electronics",
+  "name": "Camera Implement",
+  "price": "156.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb6"
+  },
+  "category": "Pets",
+  "name": "Cat Thingamajig",
+  "price": "26.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb7"
+  },
+  "category": "Entertainment",
+  "name": "Toy Supplies",
+  "price": "129.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb8"
+  },
+  "category": "Entertainment",
+  "name": "Game Gizmo",
+  "price": "110.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cb9"
+  },
+  "category": "Pets",
+  "name": "Aquarium Accessory",
+  "price": "40.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cba"
+  },
+  "category": "Activity",
+  "name": "Outdoors Implement",
+  "price": "88.99",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cbb"
+  },
+  "category": "Health",
+  "name": "Nutrition Item",
+  "price": "195.99",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cbc"
+  },
+  "category": "Activity",
+  "name": "Fitness Instrument",
+  "price": "162.95",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cbd"
+  },
+  "category": "Home",
+  "name": "Furniture Kit",
+  "price": "13.99",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cbe"
+  },
+  "category": "Pets",
+  "name": "Dog Thingamajig",
+  "price": "57.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cbf"
+  },
+  "category": "Beauty",
+  "name": "Bath Gizmo",
+  "price": "181",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc0"
+  },
+  "category": "Home",
+  "name": "Bedding Contraption",
+  "price": "95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc1"
+  },
+  "category": "Clothing",
+  "name": "Womens Device",
+  "price": "198.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc2"
+  },
+  "category": "Electronics",
+  "name": "Phone Instrument",
+  "price": "29.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc3"
+  },
+  "category": "Entertainment",
+  "name": "Book Device",
+  "price": "78.95",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc4"
+  },
+  "category": "Home",
+  "name": "Cooking Widget",
+  "price": "101.95",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc5"
+  },
+  "category": "Activity",
+  "name": "Outdoors Whatchamacallit",
+  "price": "84",
+  "subcategory": "Outdoors"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc6"
+  },
+  "category": "Beauty",
+  "name": "Personal Kit",
+  "price": "110.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc7"
+  },
+  "category": "Health",
+  "name": "Medicine Gizmo",
+  "price": "96",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc8"
+  },
+  "category": "Beauty",
+  "name": "Makeup Supplies",
+  "price": "142.99",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cc9"
+  },
+  "category": "Entertainment",
+  "name": "Music Thingamajig",
+  "price": "159.99",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cca"
+  },
+  "category": "Clothing",
+  "name": "Womens Device",
+  "price": "38.99",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ccb"
+  },
+  "category": "Health",
+  "name": "Nutrition Widget",
+  "price": "104",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ccc"
+  },
+  "category": "Clothing",
+  "name": "Baby Implement",
+  "price": "182",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ccd"
+  },
+  "category": "Home",
+  "name": "Storage Gear",
+  "price": "70",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cce"
+  },
+  "category": "Activity",
+  "name": "Biking Accessory",
+  "price": "20.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ccf"
+  },
+  "category": "Activity",
+  "name": "Sports Instrument",
+  "price": "162.95",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd0"
+  },
+  "category": "Entertainment",
+  "name": "Movie Gear",
+  "price": "110",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd1"
+  },
+  "category": "Activity",
+  "name": "Camping Supplies",
+  "price": "28.99",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd2"
+  },
+  "category": "Home",
+  "name": "Cooking Supplies",
+  "price": "100.99",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd3"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Component",
+  "price": "57.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd4"
+  },
+  "category": "Electronics",
+  "name": "Technology Doodad",
+  "price": "105",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd5"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Tool",
+  "price": "90.99",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd6"
+  },
+  "category": "Electronics",
+  "name": "Technology Equipment",
+  "price": "21.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd7"
+  },
+  "category": "Clothing",
+  "name": "Kids Machine",
+  "price": "147",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd8"
+  },
+  "category": "Entertainment",
+  "name": "Music Gear",
+  "price": "187.95",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cd9"
+  },
+  "category": "Beauty",
+  "name": "Personal Gadget",
+  "price": "164.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cda"
+  },
+  "category": "Entertainment",
+  "name": "Movie Machine",
+  "price": "94.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cdb"
+  },
+  "category": "Activity",
+  "name": "Camping Tool",
+  "price": "135.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cdc"
+  },
+  "category": "Clothing",
+  "name": "Womens Widget",
+  "price": "170.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cdd"
+  },
+  "category": "Health",
+  "name": "Vitamin Gear",
+  "price": "90.99",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cde"
+  },
+  "category": "Activity",
+  "name": "Biking Equipment",
+  "price": "34.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cdf"
+  },
+  "category": "Pets",
+  "name": "Aquarium Tool",
+  "price": "59.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce0"
+  },
+  "category": "Home",
+  "name": "Furniture Item",
+  "price": "61.99",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce1"
+  },
+  "category": "Entertainment",
+  "name": "Movie Implement",
+  "price": "114",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce2"
+  },
+  "category": "Pets",
+  "name": "Dog Gear",
+  "price": "133.95",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce3"
+  },
+  "category": "Clothing",
+  "name": "Baby Equipment",
+  "price": "50.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce4"
+  },
+  "category": "Activity",
+  "name": "Swimming Apparatus",
+  "price": "94.95",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce5"
+  },
+  "category": "Clothing",
+  "name": "Mens Attachment",
+  "price": "170",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce6"
+  },
+  "category": "Home",
+  "name": "Dining Thingamajig",
+  "price": "158.95",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce7"
+  },
+  "category": "Entertainment",
+  "name": "Game Paraphernalia",
+  "price": "129",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce8"
+  },
+  "category": "Automotive",
+  "name": "Truck Equipment",
+  "price": "155.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ce9"
+  },
+  "category": "Electronics",
+  "name": "Computer Contraption",
+  "price": "140.95",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cea"
+  },
+  "category": "Home",
+  "name": "Cooking Contraption",
+  "price": "19",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ceb"
+  },
+  "category": "Activity",
+  "name": "Beach Attachment",
+  "price": "14.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cec"
+  },
+  "category": "Electronics",
+  "name": "Camera Equipment",
+  "price": "155.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064ced"
+  },
+  "category": "Home",
+  "name": "Cooking Equipment",
+  "price": "130",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cee"
+  },
+  "category": "Health",
+  "name": "Nutrition Item",
+  "price": "126.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cef"
+  },
+  "category": "Activity",
+  "name": "Fitness Instrument",
+  "price": "179.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf0"
+  },
+  "category": "Health",
+  "name": "First Aid Gizmo",
+  "price": "157.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf1"
+  },
+  "category": "Entertainment",
+  "name": "Toy Gizmo",
+  "price": "83",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf2"
+  },
+  "category": "Automotive",
+  "name": "Tire Instrument",
+  "price": "40",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf3"
+  },
+  "category": "Home",
+  "name": "Home Improvement Widget",
+  "price": "174",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf4"
+  },
+  "category": "Home",
+  "name": "Cooking Thingamajig",
+  "price": "121",
+  "subcategory": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf5"
+  },
+  "category": "Automotive",
+  "name": "Engine Tool",
+  "price": "60.95",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf6"
+  },
+  "category": "Health",
+  "name": "First Aid Widget",
+  "price": "72.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf7"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Whatchamacallit",
+  "price": "80.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf8"
+  },
+  "category": "Pets",
+  "name": "Aquarium Supplies",
+  "price": "149.99",
+  "subcategory": "Aquarium"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cf9"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Device",
+  "price": "110",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cfa"
+  },
+  "category": "Automotive",
+  "name": "Truck Accessory",
+  "price": "147.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cfb"
+  },
+  "category": "Automotive",
+  "name": "Truck Kit",
+  "price": "148.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cfc"
+  },
+  "category": "Activity",
+  "name": "Biking Mechanism",
+  "price": "194",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cfd"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Component",
+  "price": "107.99",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cfe"
+  },
+  "category": "Beauty",
+  "name": "Personal Equipment",
+  "price": "123",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064cff"
+  },
+  "category": "Home",
+  "name": "Kitchen Whatchamacallit",
+  "price": "117.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d00"
+  },
+  "category": "Clothing",
+  "name": "Mens Doodad",
+  "price": "154.95",
+  "subcategory": "Mens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d01"
+  },
+  "category": "Activity",
+  "name": "Camping Instrument",
+  "price": "172.95",
+  "subcategory": "Camping"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d02"
+  },
+  "category": "Health",
+  "name": "Nutrition Gadget",
+  "price": "103",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d03"
+  },
+  "category": "Entertainment",
+  "name": "Music Contraption",
+  "price": "17",
+  "subcategory": "Music"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d04"
+  },
+  "category": "Home",
+  "name": "Bedding Gear",
+  "price": "112.99",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d05"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Rig",
+  "price": "18.95",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d06"
+  },
+  "category": "Electronics",
+  "name": "Camera Tool",
+  "price": "145.99",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d07"
+  },
+  "category": "Electronics",
+  "name": "Technology Gear",
+  "price": "197.99",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d08"
+  },
+  "category": "Home",
+  "name": "Cleaning Item",
+  "price": "49",
+  "subcategory": "Cleaning"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d09"
+  },
+  "category": "Home",
+  "name": "Furniture Kit",
+  "price": "92.99",
+  "subcategory": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d0a"
+  },
+  "category": "Beauty",
+  "name": "Personal Tool",
+  "price": "57",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d0b"
+  },
+  "category": "Clothing",
+  "name": "Baby Paraphernalia",
+  "price": "193.99",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d0c"
+  },
+  "category": "Home",
+  "name": "Storage Component",
+  "price": "57.99",
+  "subcategory": "Storage"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d0d"
+  },
+  "category": "Automotive",
+  "name": "Truck Component",
+  "price": "110.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d0e"
+  },
+  "category": "Electronics",
+  "name": "Technology Machine",
+  "price": "129.95",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d0f"
+  },
+  "category": "Clothing",
+  "name": "Kids Implement",
+  "price": "124.99",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d10"
+  },
+  "category": "Home",
+  "name": "Gardening Machine",
+  "price": "80.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d11"
+  },
+  "category": "Clothing",
+  "name": "Jewelry Gear",
+  "price": "119",
+  "subcategory": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d12"
+  },
+  "category": "Health",
+  "name": "First Aid Attachment",
+  "price": "101",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d13"
+  },
+  "category": "Entertainment",
+  "name": "Movie Doodad",
+  "price": "187.99",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d14"
+  },
+  "category": "Electronics",
+  "name": "Computer Instrument",
+  "price": "184.99",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d15"
+  },
+  "category": "Activity",
+  "name": "Swimming Equipment",
+  "price": "54",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d16"
+  },
+  "category": "Health",
+  "name": "Nutrition Widget",
+  "price": "53.95",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d17"
+  },
+  "category": "Home",
+  "name": "Home Improvement Instrument",
+  "price": "84",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d18"
+  },
+  "category": "Home",
+  "name": "Home Improvement Paraphernalia",
+  "price": "147.95",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d19"
+  },
+  "category": "Home",
+  "name": "Home Improvement Doodad",
+  "price": "158",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d1a"
+  },
+  "category": "Beauty",
+  "name": "Bath Contraption",
+  "price": "52",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d1b"
+  },
+  "category": "Beauty",
+  "name": "Personal Doodad",
+  "price": "179.95",
+  "subcategory": "Personal"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d1c"
+  },
+  "category": "Electronics",
+  "name": "Phone Device",
+  "price": "153.95",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d1d"
+  },
+  "category": "Health",
+  "name": "Medicine Rig",
+  "price": "28.99",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d1e"
+  },
+  "category": "Beauty",
+  "name": "Skin Care Equipment",
+  "price": "123.99",
+  "subcategory": "Skin Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d1f"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Accessory",
+  "price": "89.99",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d20"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Mechanism",
+  "price": "12",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d21"
+  },
+  "category": "Activity",
+  "name": "Fitness Tool",
+  "price": "24.99",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d22"
+  },
+  "category": "Automotive",
+  "name": "Truck Implement",
+  "price": "94.99",
+  "subcategory": "Truck"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d23"
+  },
+  "category": "Electronics",
+  "name": "Technology Rig",
+  "price": "170",
+  "subcategory": "Technology"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d24"
+  },
+  "category": "Activity",
+  "name": "Swimming Gadget",
+  "price": "197",
+  "subcategory": "Swimming"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d25"
+  },
+  "category": "Entertainment",
+  "name": "Party Gizmo",
+  "price": "24.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d26"
+  },
+  "category": "Automotive",
+  "name": "Tire Machine",
+  "price": "20.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d27"
+  },
+  "category": "Entertainment",
+  "name": "Toy Widget",
+  "price": "144",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d28"
+  },
+  "category": "Pets",
+  "name": "Dog Tool",
+  "price": "164.99",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d29"
+  },
+  "category": "Activity",
+  "name": "Biking Rig",
+  "price": "126",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d2a"
+  },
+  "category": "Beauty",
+  "name": "Bath Rig",
+  "price": "194",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d2b"
+  },
+  "category": "Health",
+  "name": "Vitamin Machine",
+  "price": "163",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d2c"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Instrument",
+  "price": "11",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d2d"
+  },
+  "category": "Entertainment",
+  "name": "Book Contraption",
+  "price": "123",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d2e"
+  },
+  "category": "Health",
+  "name": "Medicine Item",
+  "price": "180.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d2f"
+  },
+  "category": "Clothing",
+  "name": "Womens Implement",
+  "price": "137.95",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d30"
+  },
+  "category": "Clothing",
+  "name": "Kids Equipment",
+  "price": "30",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d31"
+  },
+  "category": "Health",
+  "name": "Vitamin Attachment",
+  "price": "25",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d32"
+  },
+  "category": "Entertainment",
+  "name": "Movie Supplies",
+  "price": "62.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d33"
+  },
+  "category": "Automotive",
+  "name": "Engine Rig",
+  "price": "92.99",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d34"
+  },
+  "category": "Activity",
+  "name": "Biking Equipment",
+  "price": "35.99",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d35"
+  },
+  "category": "Health",
+  "name": "Nutrition Kit",
+  "price": "170",
+  "subcategory": "Nutrition"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d36"
+  },
+  "category": "Automotive",
+  "name": "Car Kit",
+  "price": "131.99",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d37"
+  },
+  "category": "Home",
+  "name": "Kitchen Thingamajig",
+  "price": "118.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d38"
+  },
+  "category": "Health",
+  "name": "Medicine Widget",
+  "price": "162",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d39"
+  },
+  "category": "Entertainment",
+  "name": "Game Whatchamacallit",
+  "price": "153.95",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d3a"
+  },
+  "category": "Beauty",
+  "name": "Bath Accessory",
+  "price": "100.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d3b"
+  },
+  "category": "Electronics",
+  "name": "Phone Mechanism",
+  "price": "135.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d3c"
+  },
+  "category": "Clothing",
+  "name": "Kids Gadget",
+  "price": "129",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d3d"
+  },
+  "category": "Beauty",
+  "name": "Bath Contraption",
+  "price": "64",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d3e"
+  },
+  "category": "Entertainment",
+  "name": "Movie Rig",
+  "price": "66.95",
+  "subcategory": "Movie"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d3f"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Implement",
+  "price": "153.95",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d40"
+  },
+  "category": "Home",
+  "name": "Home Improvement Gear",
+  "price": "84",
+  "subcategory": "Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d41"
+  },
+  "category": "Automotive",
+  "name": "Tire Apparatus",
+  "price": "106.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d42"
+  },
+  "category": "Health",
+  "name": "Medicine Item",
+  "price": "196.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d43"
+  },
+  "category": "Home",
+  "name": "Gardening Accessory",
+  "price": "135.95",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d44"
+  },
+  "category": "Home",
+  "name": "Bedding Supplies",
+  "price": "43.95",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d45"
+  },
+  "category": "Health",
+  "name": "Medicine Apparatus",
+  "price": "35.95",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d46"
+  },
+  "category": "Clothing",
+  "name": "Kids Machine",
+  "price": "148.95",
+  "subcategory": "Kids"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d47"
+  },
+  "category": "Electronics",
+  "name": "Computer Rig",
+  "price": "113",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d48"
+  },
+  "category": "Entertainment",
+  "name": "Game Implement",
+  "price": "75.95",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d49"
+  },
+  "category": "Entertainment",
+  "name": "Game Paraphernalia",
+  "price": "39.99",
+  "subcategory": "Game"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d4a"
+  },
+  "category": "Clothing",
+  "name": "Baby Thingamajig",
+  "price": "162.95",
+  "subcategory": "Baby"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d4b"
+  },
+  "category": "Activity",
+  "name": "Sports Equipment",
+  "price": "73",
+  "subcategory": "Sports"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d4c"
+  },
+  "category": "Electronics",
+  "name": "Camera Kit",
+  "price": "69.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d4d"
+  },
+  "category": "Activity",
+  "name": "Beach Whatchamacallit",
+  "price": "83.99",
+  "subcategory": "Beach"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d4e"
+  },
+  "category": "Health",
+  "name": "Vitamin Accessory",
+  "price": "120",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d4f"
+  },
+  "category": "Home",
+  "name": "Dining Supplies",
+  "price": "147.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d50"
+  },
+  "category": "Electronics",
+  "name": "Computer Kit",
+  "price": "158",
+  "subcategory": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d51"
+  },
+  "category": "Home",
+  "name": "Bedding Doodad",
+  "price": "60.99",
+  "subcategory": "Bedding"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d52"
+  },
+  "category": "Entertainment",
+  "name": "Party Kit",
+  "price": "45.99",
+  "subcategory": "Party"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d53"
+  },
+  "category": "Home",
+  "name": "Kitchen Apparatus",
+  "price": "179.95",
+  "subcategory": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d54"
+  },
+  "category": "Automotive",
+  "name": "Engine Tool",
+  "price": "183",
+  "subcategory": "Engine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d55"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Rig",
+  "price": "127",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d56"
+  },
+  "category": "Home",
+  "name": "Dining Component",
+  "price": "191.99",
+  "subcategory": "Dining"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d57"
+  },
+  "category": "Entertainment",
+  "name": "Book Whatchamacallit",
+  "price": "131.99",
+  "subcategory": "Book"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d58"
+  },
+  "category": "Activity",
+  "name": "Biking Widget",
+  "price": "159.95",
+  "subcategory": "Biking"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d59"
+  },
+  "category": "Automotive",
+  "name": "Car Instrument",
+  "price": "85",
+  "subcategory": "Car"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d5a"
+  },
+  "category": "Entertainment",
+  "name": "Toy Paraphernalia",
+  "price": "100.99",
+  "subcategory": "Toy"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d5b"
+  },
+  "category": "Health",
+  "name": "Vitamin Attachment",
+  "price": "122",
+  "subcategory": "Vitamin"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d5c"
+  },
+  "category": "Beauty",
+  "name": "Hair Care Supplies",
+  "price": "117",
+  "subcategory": "Hair Care"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d5d"
+  },
+  "category": "Pets",
+  "name": "Dog Widget",
+  "price": "48",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d5e"
+  },
+  "category": "Health",
+  "name": "Medicine Thingamajig",
+  "price": "37",
+  "subcategory": "Medicine"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d5f"
+  },
+  "category": "Pets",
+  "name": "Cat Equipment",
+  "price": "161.95",
+  "subcategory": "Cat"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d60"
+  },
+  "category": "Electronics",
+  "name": "Phone Attachment",
+  "price": "72.99",
+  "subcategory": "Phone"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d61"
+  },
+  "category": "Beauty",
+  "name": "Makeup Supplies",
+  "price": "145.99",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d62"
+  },
+  "category": "Pets",
+  "name": "Dog Tool",
+  "price": "93",
+  "subcategory": "Dog"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d63"
+  },
+  "category": "Clothing",
+  "name": "Womens Implement",
+  "price": "144",
+  "subcategory": "Womens"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d64"
+  },
+  "category": "Home",
+  "name": "Gardening Whatchamacallit",
+  "price": "122.99",
+  "subcategory": "Gardening"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d65"
+  },
+  "category": "Health",
+  "name": "First Aid Mechanism",
+  "price": "39.95",
+  "subcategory": "First Aid"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d66"
+  },
+  "category": "Beauty",
+  "name": "Makeup Device",
+  "price": "133.99",
+  "subcategory": "Makeup"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d67"
+  },
+  "category": "Automotive",
+  "name": "Tire Doodad",
+  "price": "100.99",
+  "subcategory": "Tire"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d68"
+  },
+  "category": "Activity",
+  "name": "Fitness Accessory",
+  "price": "198",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d69"
+  },
+  "category": "Activity",
+  "name": "Fitness Gizmo",
+  "price": "164",
+  "subcategory": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d6a"
+  },
+  "category": "Beauty",
+  "name": "Bath Machine",
+  "price": "58.95",
+  "subcategory": "Bath"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d6b"
+  },
+  "category": "Electronics",
+  "name": "Camera Device",
+  "price": "18.95",
+  "subcategory": "Camera"
+},
+{
+  "_id": {
+    "$oid": "65c910d9e21c79ca44064d6c"
+  },
+  "category": "Home",
+  "name": "Cooking Rig",
+  "price": "130.99",
+  "subcategory": "Cooking"
+}]
